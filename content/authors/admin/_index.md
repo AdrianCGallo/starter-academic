@@ -72,7 +72,7 @@ email: "adrian[dot]gallo[at]oregonstate[dot]edu"
 highlight_name: false
 ---
 
-Adrian (he/him) is currently a PhD candidate at Oregon State University focusing on soil organic matter across ecosystems. His career started at Cal Poly, San Luis Obispo, where his curiosity and love of the outdoors led him to discover the fields of geology and soil science. He then spent time in both the Tongass (Alaska) and Klamath-Siskiyou (Oregon) National Forests working on long-term management plans. His love of California grasslands was overshadowed by his experiences in the Pacific Northwest where he then decided to pursue a MS in forestry at Oregon State University. 
+Adrian (he/him) is currently a PhD candidate at Oregon State University focusing on soil organic matter across ecosystems. His career started at Cal Poly, San Luis Obispo, where his curiosity and love of the outdoors led him to discover the fields of geology and soil science. He then spent time in both the Tongass (Alaska) and Klamath-Siskiyou (Oregon) National Forests working on long-term forest management plans. His love of California grasslands was overshadowed by his experiences in the Pacific Northwest where he then decided to pursue a MS in forestry at Oregon State University. 
 
 He continues his soil science research in the college of agriculture where he expects to complete his PhD this summer. In his spare time he enjoys mountain biking, playing soccer, and is a co-host for the Oregon State science communication podcast & radio show, Inspiration Dissemination.
 
