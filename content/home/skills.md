@@ -16,18 +16,38 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
+
+feature:
+- description: 
+  icon: flask
+  icon_pack: fas
+  name: Soil Chemistry 
+
+- description: 
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
+
+- description: 
   icon: camera-retro
   icon_pack: fas
   name: Photography
+
+- description: 
+  icon: fire-alt
+  icon_pack: fas
+  name: Fire Effects on Ecosystems
+
+- description: 
+  icon: hourglass
+  icon_pack: far
+  name: Time Management
+  
+- description: 
+  icon: microphone-alt
+  icon_pack: fas
+  name: Podcasting & Audio Production
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
