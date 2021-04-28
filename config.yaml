@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Adrian C. Gallo # Website name
-baseurl: 'https://zealous-mcclintock-0746d7.netlify.app/' # Website URL
+baseurl: 'https://adriancgallo.com/' # Website URL
 copyright: 'Adrian C. Gallo ©2021 ' # Footer text, e.g. '© {year} Me'
 
 ############################
