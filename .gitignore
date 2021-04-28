@@ -7,3 +7,15 @@ public/
 jsconfig.json
 node_modules/
 .Rproj.user
+
+# New additions
+\\.knit\\.md$
+\\.utf8\\.md$
+
+# From ariel's suggestions
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+blogdown
+.DS_Store
