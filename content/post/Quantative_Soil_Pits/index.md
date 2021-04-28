@@ -3,7 +3,7 @@ title: How to dig a perfectly square hole
 subtitle: Ever wanted to see how perfectly square a cube you could dig? Well neither have I! But it turns out perfectly square holes are ideal for ecosystem-level carbon accounting. 
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Ever wanted to see how perfectly square a cube you could dig? Well neither have I! But it turns out perfectly square holes are ideal for ecosystem-level carbon accounting. 
 
 # Link this post with a project
 projects: []
@@ -18,7 +18,7 @@ lastmod: "2021-04-27T00:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -30,15 +30,19 @@ image:
 
 authors:
 - admin
-- 吳恩達
+
 
 tags:
 - Academic
-- 开源
+- Soil
+- Quantitative
+
 
 categories:
-- Demo
-- 教程
+- Academic
+- Soil
+- Quantitative
+
 ---
 
 ## Overview
@@ -98,8 +102,4 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 [Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
-## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
