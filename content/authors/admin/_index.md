@@ -6,55 +6,57 @@ title: Adrian C. Gallo
 superuser: true
 
 # Role/position/tagline
-role: Graduate Research Assistent, Instructor
+role: Graduate Research Assistant, Instructor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Oregon STate University
-  url: https://www.stanford.edu/
+- name: Oregon State University
+  url: https://cropandsoil.oregonstate.edu/users/adrian-gallo
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ecosystem nutrient cycling, and its applications to the policy framework.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Terrestrial Carbon Cycling
+- Pedology
+- Permafrost
+- Pyrogenic Carbon
+- Soil Carbon Policy
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Soil Science
+    institution: Oregon State University
+    year: Expected 2021
+  - course: MS in Sustainable Management
+    institution: Oregon State University
+    year: 2016
+  - course: BSc in Soil Science
+    institution: California Polytechnic State University - San Luis Obispo
+    year: 2013
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+
 social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/AdrianCGallo/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=miYEsFoAAAAJ&hl=en/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/adriancgallo/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +66,15 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "adrian[dot]gallo[at]oregonstate[dot]edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Adrian (he/him) is currently a PhD candidate at Oregon State University focusing on soil organic matter across ecosystems. His career started at Cal Poly, San Luis Obispo, where his curiosity and love of the outdoors led him to discover the fields of geology and soil science. He then spent time in both the Tongass (Alaska) and Klamath-Siskiyou (Oregon) National Forests working on long-term management plans. His love of California grasslands was overshadowed by his experiences in the Pacific Northwest where he then decided to pursue a MS in forestry at Oregon State University. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He continues his soil science research in the college of agriculture where he expects to complete his PhD this summer. In his spare time he enjoys mountain biking, playing soccer, and is a co-host for the Oregon State science communication podcast & radio show, Inspiration Dissemination.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
