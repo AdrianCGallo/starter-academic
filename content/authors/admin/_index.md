@@ -19,10 +19,9 @@ bio: My research interests include ecosystem nutrient cycling, and its applicati
 # Interests to show in About widget
 interests:
 - Terrestrial Carbon Cycling
-- Pedology
-- Permafrost
-- Pyrogenic Carbon
+- Human & Environmental Effects of Agriculture
 - Soil Carbon Policy
+- Science Communication
 
 # Education to show in About widget
 education:
@@ -30,7 +29,7 @@ education:
   - course: PhD in Soil Science
     institution: Oregon State University
     year: Expected 2021
-  - course: MS in Sustainable Management
+  - course: MS in Sustainable Forest Management
     institution: Oregon State University
     year: 2016
   - course: BSc in Soil Science
