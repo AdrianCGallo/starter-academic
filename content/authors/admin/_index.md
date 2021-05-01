@@ -14,14 +14,15 @@ organizations:
   url: https://cropandsoil.oregonstate.edu/users/adrian-gallo
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a terrestrial carbon biogeochemist with interests in less nerdy topics like science communication & more wonky topics like environmental policy. When not science-ing you can find me running, mountain biking, & playing soccer. 
+bio: I'm a terrestrial carbon biogeochemist with interests in less nerdy topics like SciComm & more wonky topics like environmental policy. When not science-ing you can find me running, mountain biking, & playing soccer. 
 
 # Interests to show in About widget
 interests:
 - Terrestrial Carbon Cycling
-- Human & Environmental Effects of Agriculture
+- Agriculture
 - Soil Carbon Policy
 - Science Communication
+- Leaving the world better than when I arrived
 
 # Education to show in About widget
 education:
