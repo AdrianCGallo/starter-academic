@@ -14,7 +14,7 @@ organizations:
   url: https://cropandsoil.oregonstate.edu/users/adrian-gallo
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ecosystem nutrient cycling, and its applications to the policy framework.
+bio: I am a terrestrial carbon biogeochemist with interests in less nerdy topics like science communication & more wonky topics like environmental policy. When not science-ing you can find me running, mountain biking, & playing soccer. 
 
 # Interests to show in About widget
 interests:
@@ -50,12 +50,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AdrianCGallo/
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=miYEsFoAAAAJ&hl=en/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/adriancgallo/
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=miYEsFoAAAAJ&hl=en/
+
+
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
