@@ -12,7 +12,7 @@ projects: []
 date: "2021-04-27T00:00:00Z"
 
 # Date updated
-lastmod: "2021-04-27T00:00:00Z"
+lastmod: "2021-07-22T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**AdrianCGallo**](https://twitter.com/AdrianCGallo)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -45,6 +45,11 @@ categories:
 
 ---
 
+## Some Background
+
+A few summers back I was on a campaign to dig 10 quantitative soil pits across the [HJ Andrews Experimental Forest](https://andrewsforest.oregonstate.edu/about) to better understand one of the longest studied watersheds in the world. Surprisingly, not many *soil* scientists had tried to map out the watershed, and it turns out if you care about water, tree productivity, salamander habitat, and basically anything else on soils (i.e. everything) it helps to know what soil is beneath your feet! 
+
+
 ## Overview
 
 1. Find a spot
@@ -56,17 +61,12 @@ categories:
 7. Have lunch
 8. Put everything back where it was before
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+*I have many cool photos to come!*
 
-## Get Started
 
-A few summers back I was helped a campaign to dig 10 quantitative soil pits across the [HJ Andrews Experimental Forest](https://andrewsforest.oregonstate.edu/about) for the purpose of better understanding one of theh longest studied watersheds in the world. Surprisingly, not many soil scientists had tried to map out the watershed, and it turns out if you care about water, tree productivity, salamander habitat, and basically anything else on soils (i.e. everything) it helps to know what's beneath your feet! 
 
-## More here
-
-Twitter link on my experences. 
-
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) 
+## Check it Out
+🐦 Twitter: [@AdrianCGallo](https://twitter.com/AdrianCGallo/status/1091491319707385858?s=20) 
 
 
 
