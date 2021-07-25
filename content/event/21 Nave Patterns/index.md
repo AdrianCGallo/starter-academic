@@ -39,14 +39,12 @@ links:
 - icon: google-scholar 
   icon_pack: ai
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:ULOm3_A8WrAC
-
 - icon: file-pdf
   icon_pack: fas
   name: PDF2
   url: "TalksPubs/Nave2021_Patterns.pdf"
-
 url_code: ""
-url_pdf: static/TalksPubs/Nave2021_Article_PatternsAndPredictorsOfSoilOrg.pdf
+url_pdf: TalksPubs/Nave2021_Patterns.pdf.pdf
 url_slides: ""
 url_video: ""
 
@@ -69,4 +67,4 @@ projects:
 - NEON
 
 ---
-{{% staticref "TalksPubs/Nave2021_Article_PatternsAndPredictorsOfSoilOrg.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
+{{% staticref "TalksPubs/Nave2021_Patterns.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
