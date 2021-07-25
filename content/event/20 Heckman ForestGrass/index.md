@@ -1,29 +1,30 @@
 ---
-title: Towards diverse representation and inclusion in soil science in the United States
+title: Divergent controls on carbon concentration and persistence between forests and grasslands of the conterminous US
 
-location: Soil Science Society of America Journal
+
+location: Biogeochemistry
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-12-03"
+date: "2020-12-04"
 date_end: 
 all_day: true
 
 
 
-summary: Although the field of soil science is literally studying the land we manage and live on, very rarely so we ask how this land came to managed by the people in power. 
+summary: Chicken or the egg. Grassland SOC behaves different than forest SOC. But is that because of the composition? (No). Or is it because of the climatic differences (probably) But if the climatic differences *also* lead to vegetation differences, then how can you separate out the climate from the vegetation? Here we attempt to do so.
 
-abstract: "Soil science is one of the least diverse sub-disciplines within the agricultural, earth,and natural sciences. Representation within soil science does not currently reflect demographic trends in the United States. We synthesize available data on the representation of historically marginalized groups in soil science in the United States and identify historical mechanisms contributing to these trends. We review education and employment information within academia and the federal government, land-grant university participation, and available Soil Science Society of America (SSSA) membership data to gain insight into the current state of representation within soil sciences and implications for the future of this discipline. Across all domains of diversity,historically marginalized groups are under-represented in soil science. We provide recommendations toward recognizing diversity within the field and improving and encouraging diversity within the SSSA, and suggested responses for both individuals and institutions toward improving diversity, equity, and inclusion
+abstract: "Variation in soil organic C (%OC) concentration has been associated with the concentration of reactive Fe- and Al-oxyhydroxide phases and exchangeable Ca, with the relative importance of these two stabilizing components shifting as soil pH moves from acid to alkaline. However, it is currently unknown if this pattern is similar or different with regard to measures of soil C persistence. We sampled soils from 3 horizons (uppermost A, uppermost B, C or lowest B horizons) across a pH gradient of 11 grass dominated and 13 deciduous/mixed forest-dominated NEON sites to examine similarities and differences in the drivers of C concentration and persistence. Variation in C concentrations in all soils could be linked to abundances of Fe, Al and Ca, but were not significantly linked to variation in soil C persistence. Though pH was related to variation in D14OC, higher persistence was associated with more alkaline pH values. In forested soils, depth explained 75% of the variation in D14OC (p \ 0.0001), with no significant additional correlations with extractable metal phases. In grass- lands, soil organic C persistence was not associated with exchangeable Ca concentrations, but instead was explained by depth and inorganic C concentrations (R2 = 0.76, p \ 0.0001), implying stabilization of organic C through association with carbonate precipitation. In grasslands, measures of substrate quality suggested greater persistence is also associated with a more advanced degree of decomposition. Results suggest that explanatory variables associated with C concentrations differ from those associated with persistence, and that reactive Fe- and Al-oxyhydroxide phases may not be present in high enough concentrations in most soils to offer any significant protective capacity. These results have significant implications for our understanding of how to model the soil C cycle and may suggest previously unrecognized stabilization mechanisms associated with carbonates and forms of extractable Si.
 "
 
 
 
 
 authors: []
-tags: [Soil Science, Diversity, Equity, Inclusion, Land]
+tags: [Soil, SOM, Radiocarbon, Density Fraction, Calclum Carbonate, Oxyhydroxides]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image: 
   focal_point: Smart
@@ -32,9 +33,9 @@ image:
 links:
 - icon: google-scholar 
   icon_pack: ai
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&cstart=20&pagesize=80&citation_for_view=miYEsFoAAAAJ:4TOpqqG69KYC
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:KlAtU1dfN6UC
 url_code: ""
-url_pdf: TalksPubs/Carter2020Representation.pdf
+url_pdf: TalksPubs/Heckman_2020_ForestGrass.pdf
 url_slides: ""
 url_video: ""
 
@@ -49,6 +50,5 @@ projects:
 
 ---
 
-As we tried to reiterate in the paper, this is the beginning of a conversation in soil science, not the end of one. 
 
-{{% staticref "TalksPubs/Carter2020Representation.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
+{{% staticref "TalksPubs/Heckman_2020_ForestGrass.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
