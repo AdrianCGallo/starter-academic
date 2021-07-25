@@ -27,10 +27,13 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: NARA
+    tag: NARA
   - name: Other
     tag: Demo
+  - name: NEON
+    tag: NEON
+    
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
