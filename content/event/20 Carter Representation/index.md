@@ -11,7 +11,7 @@ all_day: true
 
 
 
-summary: Although the field of soil science is literally studying the land we manage and live on, very rarely so we ask how this land came to managed by the people in power. 
+summary: Although the field of soil science is _literally_ studying the land we live on, very rarely do we ask how this land came to be managed by the current people in power. In this paper we examine how America's past influences the current system of private and public land management agencies, and what we *must* do within the field of soil science to make a science for all people. 
 
 abstract: "Soil science is one of the least diverse sub-disciplines within the agricultural, earth,and natural sciences. Representation within soil science does not currently reflect demographic trends in the United States. We synthesize available data on the representation of historically marginalized groups in soil science in the United States and identify historical mechanisms contributing to these trends. We review education and employment information within academia and the federal government, land-grant university participation, and available Soil Science Society of America (SSSA) membership data to gain insight into the current state of representation within soil sciences and implications for the future of this discipline. Across all domains of diversity,historically marginalized groups are under-represented in soil science. We provide recommendations toward recognizing diversity within the field and improving and encouraging diversity within the SSSA, and suggested responses for both individuals and institutions toward improving diversity, equity, and inclusion
 "
