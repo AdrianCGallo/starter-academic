@@ -22,7 +22,7 @@ interests:
 - Agriculture
 - Soil Carbon Policy
 - Science Communication
-- Leaving the world better than when I arrived
+- Learning
 
 # Education to show in About widget
 education:
@@ -33,7 +33,7 @@ education:
   - course: MS in Sustainable Forest Management
     institution: Oregon State University
     year: 2016
-  - course: BSc in Soil Science
+  - course: BSc in Soil Science & Geology Minor
     institution: California Polytechnic State University - San Luis Obispo
     year: 2013
 
@@ -72,7 +72,7 @@ social:
 email: "adrian[dot]gallo[at]oregonstate[dot]edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Adrian (he/him) is currently a PhD candidate at Oregon State University focusing on soil organic matter across ecosystems. His career started at Cal Poly, San Luis Obispo, where his curiosity and love of the outdoors led him to discover the fields of geology and soil science. He then spent time in both the Tongass (Alaska) and Klamath-Siskiyou (Oregon) National Forests working on long-term forest management plans. His love of California grasslands was overshadowed by his experiences in the Pacific Northwest where he then decided to pursue a MS in forestry at Oregon State University. 
@@ -80,4 +80,4 @@ Adrian (he/him) is currently a PhD candidate at Oregon State University focusing
 He continues his soil science research in the college of agriculture where he expects to complete his PhD this summer. In his spare time he enjoys mountain biking, playing soccer, and is a co-host for the Oregon State science communication podcast & radio show, Inspiration Dissemination.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AdrianCGallo_CV.pdf" "newtab" >}}CV
