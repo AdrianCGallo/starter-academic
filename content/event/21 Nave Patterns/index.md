@@ -5,13 +5,9 @@ location: Biogeochemistry
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 
+date: "2021-01-01"
 date_end: 
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2021-01-01"
-date_format: Jan 2006
+all_day: true
 
 
 
@@ -37,23 +33,11 @@ image:
 links:
 - icon: google-scholar 
   icon_pack: ai
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:ULOm3_A8WrAC
-- icon: file-pdf
-  icon_pack: fas
-  link: TalksPubs/Nave2021_Patterns.pdf
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:ULOm3_A8WrAC
 url_code: ""
 url_pdf: TalksPubs/Nave2021_Patterns.pdf
 url_slides: ""
 url_video: ""
-
-
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
 
 
 # Projects (optional).
@@ -61,6 +45,7 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+
 projects:
 - NEON
 
