@@ -29,10 +29,12 @@ content:
     tag: '*'
   - name: NARA
     tag: NARA
-  - name: Other
-    tag: Demo
   - name: NEON
     tag: NEON
+  - name: HJA
+    tag: HJA
+  - name: Other
+    tag: Demo
     
 
 design:
