@@ -32,9 +32,9 @@ image:
 links:
 - icon: google-scholar 
   icon_pack: ai
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:ULOm3_A8WrAC
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&cstart=20&pagesize=80&citation_for_view=miYEsFoAAAAJ:4TOpqqG69KYC
 url_code: ""
-url_pdf: TalksPubs/Nave2021_Patterns.pdf
+url_pdf: TalksPubs/Carter2020Representation.pdf
 url_slides: ""
 url_video: ""
 
@@ -46,7 +46,9 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 
 projects:
-- NEON
 
 ---
-{{% staticref "TalksPubs/Nave2021_Patterns.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
+
+As we tried to reiterate in the paper, this is the beginning of a conversation in soil science, not the end of one. 
+
+{{% staticref "TalksPubs/Carter2020Representation.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
