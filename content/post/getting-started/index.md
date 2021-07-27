@@ -17,6 +17,10 @@ lastmod: "2020-12-13T00:00:00Z"
 # Is this an unpublished draft?
 draft: false
 
+# Should this be active? 
+active: false
+
+
 # Show this page in the Featured widget?
 featured: false
 
@@ -29,16 +33,16 @@ image:
   preview_only: false
 
 authors:
-- admin
-- 吳恩達
+#- admin
+#- 吳恩達
 
 tags:
-- Academic
-- 开源
+#- Academic
+#- 开源
 
 categories:
-- Demo
-- 教程
+#- Demo
+#- 教程
 ---
 
 ## Overview
