@@ -32,15 +32,15 @@ image:
   placement: 2
   preview_only: false
 
-authors:
+#authors:
 #- admin
 #- 吳恩達
 
-tags:
+#tags:
 #- Academic
 #- 开源
 
-categories:
+#categories:
 #- Demo
 #- 教程
 ---

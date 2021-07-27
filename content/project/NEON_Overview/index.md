@@ -7,8 +7,11 @@ tags:
 - Continental
 - Long-term
 
-project: 
-- NEON
+project: [NEON] 
+
+categories:
+- Demo
+- 教程
 
 date: "2021-05-21T00:00:00Z"
 
