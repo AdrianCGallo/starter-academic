@@ -1,17 +1,18 @@
 ---
 title: Big Data for Big Problems - The National Ecological Observatory Network for Soils
 
+authors:
+- admin
+
 tags:
+- NEON
 - Ecosystems
 - Soil
 - Continental
 - Long-term
 
-project: [NEON] 
-
 categories:
-- Demo
-- 教程
+- NEON
 
 date: "2021-05-21T00:00:00Z"
 

@@ -2,14 +2,19 @@
 title: Intensive Biomass Harvesting in the Oregon Cascades
 summary: Forest management has strong effects on the landscapes, but what happens to soil carbon - and therefore site productivity - following intensive biomass harvesting?  
 
+authors:
+- admin
+
 tags:
+- NARA
 - Forests
 - O-Horizons
 - Soil
 - Oregon
 - Pacific Northwest
 
-project: [NARA]
+categories:
+- NARA
 
 
 date: "2021-04-27T00:00:00Z"

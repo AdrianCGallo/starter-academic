@@ -5,8 +5,15 @@ subtitle: Ever wanted to see how perfectly square a cube you could dig? Well nei
 # Summary for listings and search engines
 summary: Ever wanted to see how perfectly square a cube you could dig? Well neither have I! But it turns out perfectly square holes are ideal for ecosystem-level carbon accounting. 
 
-# Link this post with a project
-projects: []
+categories:
+- HJA
+
+tags:
+- Academic
+- Soil
+- Quantitative
+- HJA
+
 
 # Date published
 date: "2021-04-27T00:00:00Z"
@@ -30,13 +37,6 @@ image:
 
 authors:
 - admin
-
-
-tags:
-- Academic
-- Soil
-- Quantitative
-
 
 categories:
 - Academic
