@@ -3,16 +3,18 @@ title: How to dig a perfectly square hole
 subtitle: Ever wanted to see how perfectly square a cube you could dig? Well neither have I! But it turns out perfectly square holes are ideal for ecosystem-level carbon accounting. 
 
 # Summary for listings and search engines
-summary: Ever wanted to see how perfectly square a cube you could dig? Well neither have I! But it turns out perfectly square holes are ideal for ecosystem-level carbon accounting. 
+summary: Ever wanted to see how perfectly square a 1x1x1 meter cube you could dig? Well neither have I! But it turns out, ecosystem-level carbon accounting require very precise partitioning of biomass pools to be effective. 
+
+authors:
+-admin
 
 categories:
-- HJA
+- HJ Andrews
 
 tags:
-- Academic
 - Soil
 - Quantitative
-- HJA
+- HJ Andrews
 
 
 # Date published
@@ -35,14 +37,11 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-- admin
-
-categories:
-- Academic
-- Soil
-- Quantitative
-
+links:
+- icon: twitter
+  icon_pack: fab
+  name: See More
+  url: https://twitter.com/AdrianCGallo/status/1091491319707385858?s=20 
 ---
 
 ## Some Background
@@ -67,25 +66,6 @@ A few summers back I was on a campaign to dig 10 quantitative soil pits across t
 
 ## Check it Out
 🐦 Twitter: [@AdrianCGallo](https://twitter.com/AdrianCGallo/status/1091491319707385858?s=20) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
