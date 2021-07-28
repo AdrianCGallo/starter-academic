@@ -6,7 +6,8 @@ subtitle: Ever wanted to see how perfectly square a cube you could dig? Well nei
 summary: Ever wanted to see how perfectly square a 1x1x1 meter cube you could dig? Well neither have I! But it turns out, ecosystem-level carbon accounting require very precise partitioning of biomass pools to be effective. 
 
 authors:
--admin
+- admin
+# my goodness - if you do NOT have a space in between the dash (-) and the word "admin" the entire site breaks down... wtf. 
 
 categories:
 - HJ Andrews
@@ -40,7 +41,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: See More
+  name: See Thread
   url: https://twitter.com/AdrianCGallo/status/1091491319707385858?s=20 
 ---
 
@@ -61,13 +62,4 @@ A few summers back I was on a campaign to dig 10 quantitative soil pits across t
 8. Put everything back where it was before
 
 *I have many cool photos to come!*
-
-
-
-## Check it Out
-🐦 Twitter: [@AdrianCGallo](https://twitter.com/AdrianCGallo/status/1091491319707385858?s=20) 
-
-
-
-
 
