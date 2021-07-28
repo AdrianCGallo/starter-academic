@@ -31,12 +31,12 @@ content:
     tag: NARA
   - name: NEON
     tag: NEON
-  - name: HJA
-    tag: HJA
-  - name: Other
-    tag: Demo
-    
-
+  - name: HJ Andrews
+    tag: HJ Andrews
+  - name: SciComm
+    tag: SciComm
+ 
+ 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
