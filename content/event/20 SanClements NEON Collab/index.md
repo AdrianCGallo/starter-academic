@@ -1,26 +1,26 @@
 ---
-title: Short-Term Effects of Recent Fire on the Production and Translocation of Pyrogenic Carbon in Great Smoky Mountains National Park
+title: Collaborating with NEON
 
 
-location: Frontiers in Forest and Global Change
+location: BioScience
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-02-04"
+date: "2020-02-01"
 date_end: 
 all_day: true
 
 
 
-summary: Studying wildfire effects on ecosystems is difficult because predicting *where* and *when* something will burn is nearly impossible, and rarely do you have robust pre-fire data. My dissertation samples from the Great Smokey Mountain National Park were collected prior to the Chimney Tops 2 from 2016. It was a wind-driven high intensity and high severity fire that burned >4,500 hectares. In this paper, we examine the pre and post fire pyrogenic carbon signal using an innovative BPCA method developed my Dr. Matosziuk. 
+summary: The National Ecological Observatory Network (NEON) integrates hard infrastructure along with cloud-based data products that are publicly available. In this paper we advertised just *some* of the capabilities that NEON currently has, and describe how other site-specific instruments/observations may be incorporated. 
 
-abstract: "Fire affects the quantity and quality of soil organic matter (SOM). While combustion of the O-horizon causes direct losses of SOM, fire also transforms the remaining SOM into a spectrum of thermally altered organic matter. Pyrogenic carbon (PyC) can resist degradation and may have important effects on soil carbon cycling. The objectives of this study are to examine the mobility of PyC. Studying the effects of wildfire is challenging due to the rapid post-fire changes in the ecosystem and lack of robust controls. We overcame those limitations by examining the Chimney Tops 2 Fire which burned 4,617 ha of the Great Smoky Mountains National Park (GRSMNP), including a National Ecological Observatory Network (NEON) site, in November 2016. We examined PyC in soils from three time points from an area burned at low-severity (pre-, immediate post-, and 11 months post-fire) and two time points from areas burned at lower to higher severity (immediate post- and 11 months post-fire). At locations with pre-fire soil samples we found that PyC increased in the O-horizon (2.22 g BPCA/kg soil) after low severity fire, which resulted in higher PyC concentrations at 5–10 cm (0.73 g BPCA/kg soil and 17.79 g BPCA/kg C) and 10–20 cm (12.19 g BPCA/kg C) of depth in the mineral soil. Sites burned at higher severity had more PyC in the O horizon relative to sites burned at lower severity (10.29 g BPCA/kg soil and 29.89 g BPCA/kg C). As a result of higher concentrations of PyC in the O-horizons burned at higher severity, statistically more PyC moved from the O-horizon to the 0–10 cm horizon from immediate to 1-year post-fire (1.37 g BPCA/kg soil and 16.10 g BPCA/kg C). Lastly, the depth profile of C and BPCA suggest a shift in the source and amount of PyC in these soil profiles over time—possibly as a result of fire suppression. Results indicate that low severity fire may be an important mechanism by which PyC is produced and transported into mineral soils."
+abstract: "Although NEON science designs, data collection, and data processing are highly standardized, there are a wide range of subsystems (e.g., soil array, groundwater wells) and sampling plots (e.g., tower plots, distributed plots) contributing to NEON’s catalog of open source data products. Understanding the distribution and purpose of subsystems and plots is the first step toward effectively leveraging NEON data. Second is access to contextual site information to aid researchers in interpreting NEON data or planning future collaborations with the observatory. To assist in that understanding, we have compiled important information (see the supplemental material) about NEON sites, measurement subsystems, plot types, and the data originating from them."
 
 
 
 
 authors: []
-tags: [Soil, SOM, Pyrogenic Carbon, Density Fraction, Wildfire, Great Smokey Mountain National Park]
+tags: [Soil, Aquatic, Terrestrial, NEON, Instrumentation]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -32,9 +32,9 @@ image:
 links:
 - icon: google-scholar 
   icon_pack: ai
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:_FxGoFyzp5QC
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:LkGwnXOMwfcC
 url_code: ""
-url_pdf: TalksPubs/Matosziuk_2020_GRSM_PyC.pdf
+url_pdf: TalksPubs/SanClements_20_NEON_Collab.pdf
 url_slides: ""
 url_video: ""
 
@@ -47,6 +47,6 @@ url_video: ""
 
 projects:
 ---
-{{% staticref "TalksPubs/Matosziuk_2020_GRSM_PyC.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
+{{% staticref "TalksPubs/SanClements_20_NEON_Collab.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
 
-This paper was built on a new method that was developed by Dr. Matosziuk. The Benzene Polycarboxylic Acid (BPCA) method allows us to determine the *quantity* and *quality* of pyrogenic carbon. This method was later expanded to include NEON sites, you can see the [poster here](https://twitter.com/AdrianCGallo/status/1082319604070834180). 
+The National Ecological Observatory Network (NEON) integrates hard infrastructure along with cloud-based data products that are publicly available. In this paper we advertised just *some* of the capabilities that NEON currently has, and describe how other site-specific instruments/observations may be incorporated. 
