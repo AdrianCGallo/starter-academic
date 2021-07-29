@@ -1,6 +1,6 @@
 ---
 
-title: "Roots to Regolith: Sources of organic matter across the National Ecological Observatory Network (NEON) soil plots"" 
+title: "Roots to Regolith: Sources of organic matter across the National Ecological Observatory Network (NEON) soil plots" 
 
 
 location: Soil Science Society of America Annual meeting - San Antonio, TX
