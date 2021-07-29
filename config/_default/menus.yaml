@@ -6,8 +6,8 @@
 main:
   - name: Bio
     url: '#about'
-
     weight: 10
+
   - name: Projects
     url: '#projects'
     weight: 20
@@ -23,12 +23,13 @@ main:
   - name: Talks & Pubs
     url: '#talks'
     weight: 50
+
   - name: Contact
     url: '#contact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-- name: CV
-  url: uploads/AdrianCGallo_CV.pdf
-  weight: 55
+  - name: CV
+    url: uploads/AdrianCGallo_CV.pdf
+    weight: 55
