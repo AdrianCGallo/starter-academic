@@ -14,14 +14,16 @@ organizations:
   url: https://cropandsoil.oregonstate.edu/users/adrian-gallo
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a terrestrial carbon biogeochemist with interests in more fun topics like SciComm & more wonky topics like environmental policy. When not science-ing you can find me running, mountain biking, & playing soccer. 
+bio: I’m trained as a terrestrial carbon biogeochemist (aka I know a lot about dirt). I’m currently exploring science communication and climate change policy through an environmental justice framework as a future career. When not science-ing you can find me running, mountain biking, or playing soccer.
+ 
 
 # Interests to show in About widget
 interests:
 - Terrestrial Carbon Cycling
-- Agriculture
-- Soil Carbon Policy
 - Science Communication
+- Soil Carbon Policy
+- Food Systems
+- Agriculture
 - Learning
 
 # Education to show in About widget
@@ -75,7 +77,7 @@ email: "adrian[dot]gallo[at]oregonstate[dot]edu"
 highlight_name: true
 
 # Practice words: 
-# Adrian (he/him) is currently a Ph.D.candidate of soil science, although he does not want to be a soil scientist. It's not for lack of interest. Soils are, in fact, incredible ecosystems that are undervalued at the societial level. Unfortunately, society faces problems that are larger than soils and Adrian wants to make a career on helping to improve society so that he leaves the Earth in better shape than when he entered it. 
+# Adrian (he/him) is currently a Ph.D.candidate in soil science, but he does not want to be a soil scientist. It's not for lack of interest. Soils are  undervalued ecosystems that benefit society. Unfortunately, society face problems that are far greater than soils which he's [written about](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/saj2.20210). Adrian wants his future career to focus on improving society so that he leaves the Earth in better shape than when he entered it. 
 
 
 # Adrian grew up in California spending summers exploring the Sierra Nevada mountains. Those ecosystems, and the granitic rock outcrops, led him to pursue a degree in soil science with a geology minor at Cal Poly San Luis Obispo. The Learn By Doing motto of Cal Poly led to internships with the USDA Forest Service in both Alaska and Oregon where he analyzed landscapes for a ten-year timber harvesting plan, prepared documents for the NEPA process, and proposed watershed scale action-plans at the with multiple resource benefits. Following his experience with land management agencies, he wanted to be more informed about how soils can better fit within 
@@ -87,7 +89,7 @@ highlight_name: true
 
 Adrian (he/him) is currently a PhD candidate at Oregon State University focusing on soil organic matter across ecosystems. His career started at Cal Poly, San Luis Obispo, where his curiosity and love of the outdoors led him to discover the fields of geology and soil science. He then spent time in both the Tongass (Alaska) and Klamath-Siskiyou (Oregon) National Forests working on long-term forest management plans. His love of California grasslands was overshadowed by his experiences in the Pacific Northwest where he then decided to pursue a MS in forestry at Oregon State University. 
 
-He continues his soil science research in the college of agriculture where he expects to complete his PhD this summer. In his spare time he enjoys mountain biking, playing soccer, and is a co-host for the Oregon State science communication podcast & radio show, Inspiration Dissemination.
+He continues his soil science research in the college of agriculture where he expects to complete his PhD in 2021. In his spare time he enjoys mountain biking, playing soccer, and is a co-host for the Oregon State science communication podcast & radio show, Inspiration Dissemination.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AdrianCGallo_CV.pdf" "newtab" >}}CV
