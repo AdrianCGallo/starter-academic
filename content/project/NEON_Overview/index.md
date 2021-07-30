@@ -26,7 +26,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: See Thread
   url: https://twitter.com/AdrianCGallo/status/1082319604070834180
 url_code: ""
 url_pdf: ""
@@ -41,7 +41,7 @@ summary: The NEON project was at its infancy when I began my dissertation. They 
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 
 
