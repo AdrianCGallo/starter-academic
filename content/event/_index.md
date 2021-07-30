@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Pubs & Talks
 cms_exclude: true
 
 # View.
