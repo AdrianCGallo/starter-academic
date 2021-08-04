@@ -1,5 +1,5 @@
 ---
-title: Inspiration Dissemination - Radio show, podcast, and blog
+title: Writing Examples from Inspiration Dissemination - Radio show, podcast, and blog
 
 authors:
 - admin
@@ -30,21 +30,26 @@ url_slides: ""
 url_video: ""
 
 # Summary for listings and search engines
-summary: Doing the research is *never* as fun as talking about it. This radio show & podcast is for and by graduate students at OSU so we can all stay curious about the world around us.  
+summary: I've been a host of this show since about 2014, since then I've written numerous stories about my fellow graduate students. This is a brief overview of some of them. 
 
 ---
 
 
-## How it started
+# Overview
 
-This radio show was started by two graduate students in 2012 at Oregon State University because they felt like there was a missing outlet for their colleagues to talk about their hard won research. It started rather informally with the forestry and botany/plant pathology student asking all their friends to be on the show, but over time they gained steam and guests were signing up constantly. You can read about all the [past hosts](https://blogs.oregonstate.edu/inspiration/people/) and [guests](https://blogs.oregonstate.edu/inspiration/).
+I started co-hosting the show because I thought it would just be a fun endeavors to talk on the radio. Before long, I was being exposed to research I **NEVER** knew existed. I had conversations with physicists, biologists, and social scientists. The conversations were always about them presenting their research, but it was also about my (maybe selfish) insatiable curiosity about the world around me. Here are a few blog posts that accompany the episodes. All blog posts can be found on the [Inspiration Dissemination website](https://blogs.oregonstate.edu/inspiration/), and [podcast episodes](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?mt=2) are available through 2015. 
 
 
 
-## How it's going
+### Winston Kennedy
+Oregon State University has an adaptive physical activity program that builds toy cars for children who are mobility impaired and examines of ways to make exercise more accessible for those with mobility limitations. It's no secret, that the world is built around able-bodied people. Even with the advent of the Americans with Disabilities Act, there are everyday hurdles and limitations disabled people must figure out that other people don't even realize exist. But it's not *just* disabled people who are in a disadvantaged situation. 
 
-As of March 2020, about **300** interviews have been conducted. Because podcasts were not really a thing until more recently, only the most recent 200 episode are available on our [Apple Podcast page](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?mt=2). Since 2019, the Inspiration Dissemination team partnered with the OSU Graduate School to showcase some of our most influential guests through the annual [Grad Inspire](https://gradschool.oregonstate.edu/graduate-student-success/grad-inspire) program (See our [2019](https://podcasts.apple.com/us/podcast/gradx-2019/id1337404264?i=1000431061786), [2020](https://blogs.oregonstate.edu/inspiration/2020/04/18/grad-inspire-2020/), and the [remote 2021](https://gradschool.oregonstate.edu/graduate-student-success/grad-inspire) shows). Sadly, the Grad Inspire 2020 event was one of the last public events the university had before COVID-19 restrictions began forcing the show to go on hiatus. 
+About nine-million Americans have experiences some experience with physical therapy (PT) during their lifetimes (me included!), but Winston was finding that it's really hard for everyday people to perform the physical activity exercises at home because they don't have the equipment, space, or proper guidance (also me included!). Winston was a practicing physical therapist for a number of years, when he noticed some basic gaps in care that he was not able to provide his patients (or lack thereof). Primary care physicians were not recommending (or providing referrals which is needed in the US health care systems) physical therapy to people who could *really benefit* because they simply didn't know what benefits PT offered. For example, 
 
-As of this writing (summer 2021), the university recently allowed students to record in the radio booth again. However, we normally take summer breaks off and the Delta variant is causing in-person restrictions to be reinstated. While we may not be able to return to the recording booth, we hope to adapt the show to record remotely for the 2021 academic school year and beyond. 
+Winston Kennedy's [blog post](https://blogs.oregonstate.edu/inspiration/2020/01/26/work-your-body-work-your-brain/) and [podcast episode](https://podcasts.apple.com/us/podcast/winston-kennedy-work-your-body-work-your-brain/id1337404264?i=1000463814035). Winston was also selected to be part of an annual event we organize with the OSU Graduate School called [Grad Inspire](https://gradschool.oregonstate.edu/graduate-student-success/grad-inspire), where you can watch his [speech from the 2020 event](https://media.oregonstate.edu/media/t/0_4s2s94e5).
 
-You can find an [archive of my interviews & writing samples](https://blogs.oregonstate.edu/inspiration/author/galloa/) here.
+
+
+
+
+Interested in reading more about my work with Inspiration Dissemination? Check out my [archive of my interviews & blog posts](https://blogs.oregonstate.edu/inspiration/author/galloa/).

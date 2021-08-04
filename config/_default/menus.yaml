@@ -16,11 +16,11 @@ main:
 #    url: '#posts'
 #    weight: 30
 
-  #- name: Talks
-  #  url: '#talks'
-  #  weight: 40
+  - name: Pubs & Talks
+    url: '#publications'
+    weight: 40
 
-  - name: Talks & Pubs
+  - name: Events
     url: '#talks'
     weight: 50
 

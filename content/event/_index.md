@@ -1,5 +1,5 @@
 ---
-title: Pubs & Talks
+title: Events
 cms_exclude: true
 
 # View.
