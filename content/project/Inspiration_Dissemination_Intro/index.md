@@ -41,12 +41,15 @@ I started co-hosting the show because I thought it would just be a fun endeavors
 
 
 
-### Winston Kennedy
-Oregon State University has an adaptive physical activity program that builds toy cars for children who are mobility impaired, and examines of ways to make exercise more accessible for those with mobility limitations. It's no secret, that the world is built around able-bodied people. Even with the advent of the Americans with Disabilities Act, there are everyday hurdles and limitations disabled people must figure out that other people don't even realize exist. But it's not *just* disabled people who are in a disadvantaged situation. 
-
-About nine-million Americans have some experience with physical therapy (PT) during their lifetimes (me included!), but Winston was finding that it's really hard for everyday people to perform the physical activity exercises at home because they don't have the equipment, space, or proper guidance (also me included!). Winston was a practicing physical therapist for a number of years, when he noticed some basic gaps in care that he was not able to provide his patients (or lack thereof). Primary care physicians were not recommending (or providing referrals which is needed in the US health care systems) physical therapy to people who could *really benefit* because they simply didn't know what benefits PT offered. Too often, back pains were expected to be cured with pills when core strengthening PT exercises are really what the patient needs. Winston's research examines the lack of knowledge from the primary care physician side, as well as what limits success of PT done in the office vs the home. By understanding the flaws on the front end of getting PT referrals, and PT limitations on the back end, he hopes to make a larger impact that any single PT, like himself, can help to get more people back to doing the activities they love. 
-
-Winston Kennedy's [blog post](https://blogs.oregonstate.edu/inspiration/2020/01/26/work-your-body-work-your-brain/) and [podcast episode](https://podcasts.apple.com/us/podcast/winston-kennedy-work-your-body-work-your-brain/id1337404264?i=1000463814035). Winston was also selected to be part of an annual event we organize with the OSU Graduate School called [Grad Inspire](https://gradschool.oregonstate.edu/graduate-student-success/grad-inspire), where you can watch his [speech from the 2020 event](https://media.oregonstate.edu/media/t/0_4s2s94e5).
+- **Winston Kennedy**
+  + It's no secret, that the world is built around able-bodied people. Even with the advent of the Americans with Disabilities Act, there are everyday hurdles and limitations disabled people must figure out that other people don't even realize exist.  Oregon State University has an adaptive physical activity program aims to make movement, exercise, and personal development  more accessible for those with mobility limitations. Winston was a practicing physical therapist for a number of years, when he noticed some basic gaps in care that he was not able to provide his patients. Some issues began around primary care physicians not knowing all the benefits of PT. Other, more practical issues, revolved around patients not having the equipment at home to perform the recommended PT exercises. Winston's research aims to better inform primary care physicians on the full benefits of PT and to identify ways to encourage at-home PT exercise to be more successful. 
+  + Read Winston Kennedy's [blog post](https://blogs.oregonstate.edu/inspiration/2020/01/26/work-your-body-work-your-brain/), or listen to the [podcast episode](https://podcasts.apple.com/us/podcast/winston-kennedy-work-your-body-work-your-brain/id1337404264?i=1000463814035). Winston was also selected to be part of an annual event we organize with the OSU Graduate School called [Grad Inspire](https://gradschool.oregonstate.edu/graduate-student-success/grad-inspire); you can watch his [speech from the 2020 event](https://media.oregonstate.edu/media/t/0_4s2s94e5).
+  
+- Other Person here
+  + Sub bullet point. 
+  
+- Third person here
+  + Sub bullet point. 
 
 
 
