@@ -16,7 +16,6 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: Soil Science Society of America Journal
 publication_short: SSSA
-
 location: Soil Science Society of America Journal
 
 # Talk start and end times.
@@ -47,6 +46,7 @@ image:
 links:
 - icon: google-scholar 
   icon_pack: ai
+  name: Google Scholar
   url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:zYLM7Y9cAGgC
 url_code: ""
 url_pdf: TalksPubs/Nave19_CarbonMercuryINX.pdf
@@ -61,7 +61,11 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 
 projects:
----
-{{% staticref "TalksPubs/Nave19_CarbonMercuryINX.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
+# Archive words: The National Ecological Observatory Network (NEON) integrates hard infrastructure along with cloud-based data products that are publicly available. In this paper we advertised just *some* of the capabilities that NEON currently has, and describe how other site-specific instruments/observations may be incorporated. 
 
-The National Ecological Observatory Network (NEON) integrates hard infrastructure along with cloud-based data products that are publicly available. In this paper we advertised just *some* of the capabilities that NEON currently has, and describe how other site-specific instruments/observations may be incorporated. 
+
+---
+
+#### TLDR
+Spodosols are the **most photogenic** soils (personal opinion). Their dark organic surface horizons, followed by a light colored mineral horizon, then bookend-ed with another very dark - often red - mineral horizon makes these tri-colored soils magnificent to stare at. These Spodosols are relatively rare, but concentrated in a few places in the US where historical anthropogenic emissions are the most likely sources of Mercury. In this paper we focus on different Spodosols around the US, combining pedologic and geochemical analysis to identify how carbon and mercury interact down the soil profile. {{% staticref "TalksPubs/Nave19_CarbonMercuryINX.pdf" "newtab" %}}Download the PDF{{% /staticref %}}. 
+

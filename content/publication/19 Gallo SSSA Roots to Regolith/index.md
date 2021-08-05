@@ -24,8 +24,8 @@ all_day: true
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Soil Science Society of America Annual meeting - San Antonio, TX
-publication_short: In SSSA
+publication: Soil Science Society of America Annual meeting - San Antonio, TX
+publication_short: SSSA
 
 summary: Finding carbon in soils is easy, tracing where it came from is hard and tracing that carbon *down* the soil profile is even harder. Here I presented some of my dissertation work where we examine plant derived carbon compounds across the NEON sites, and down soil profiles often reaching 1-meter or more in depth.
 
@@ -43,9 +43,10 @@ image:
 
 
 links:
-# icon: file-pdf
-#  icon_pack: fas
-#  url: TalksPubs/Gallo_19_SSSA_RootsToRegolith_Presentation.pdf
+- icon: google-scholar 
+  icon_pack: ai
+  name: Google Scholar
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:aqlVkmm33-oC 
 url_code: ""
 url_pdf: "https://drive.google.com/file/d/1sEYm8lM42BN_g6KANlti9G_B-C-CulYc/view?usp=sharing"
 url_slides: ""
@@ -61,7 +62,9 @@ url_video: "https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/122599"
 projects:
 ---
 
-This presentation, focusing on the NEON collaboration, is the culmination of two-thirds of my dissertation. Not all the data were available (don't extract lipids in plastic falcon tubes because plasticizers screw up the GC-MS signal) but we had a significant portion of across ecosystem & down soil profile information that we could produce a reasonable story. One that runs contrary to some research on where soil carbon comes from and how long it may stick around. 
+#### TLDR
+
+This presentation, focusing on the NEON collaboration, is the culmination of two-thirds of my dissertation. Not all the data were available (PSA: don't extract lipids in plastic falcon tubes because plasticizers screw up the GC-MS signal) but we had a significant portion of across ecosystem & down soil profile information that we could produce a reasonable story. One that runs contrary to some research on where soil carbon comes from and how long it may stick around. 
 
 
-You can either download the [presentation PDF](https://drive.google.com/file/d/1sEYm8lM42BN_g6KANlti9G_B-C-CulYc/view?usp=sharing). Or, if you prefer to watch the video recording, you can do so through the [Soil Science Society of America conference website](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/122599).
+You can download the original [presentation PDF](https://drive.google.com/file/d/1sEYm8lM42BN_g6KANlti9G_B-C-CulYc/view?usp=sharing). Or, if you can watch the [recorded video](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/122599) through the Soil Science Society of America conference website.
