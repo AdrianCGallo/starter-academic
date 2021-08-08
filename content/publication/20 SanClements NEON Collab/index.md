@@ -15,8 +15,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: BioScience
-publication_short: 
-location: 
+publication_short: BioScience 
 location: BioScience
 
 # Talk start and end times.
@@ -47,6 +46,7 @@ image:
 links:
 - icon: google-scholar 
   icon_pack: ai
+  name: Google Scholar
   url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:LkGwnXOMwfcC
 url_code: ""
 url_pdf: TalksPubs/SanClements_20_NEON_Collab.pdf

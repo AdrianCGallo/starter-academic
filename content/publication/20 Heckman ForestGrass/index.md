@@ -16,8 +16,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Biogeochemistry
-publication_short: BGC
-
+publication_short: Biogeochemistry
 location: Biogeochemistry
 
 # Talk start and end times.

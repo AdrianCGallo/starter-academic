@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Soil Science Society of America Journal
-publication_short: SSSAJ
+publication_short: Soil Science Society of America Journal
 
 summary: Although the field of soil science is _literally_ studying the land we live on, very rarely do we ask how this land came to be managed by the current people in power. In this paper we examine how America's past influences the current system of private and public land management agencies, and what we *must* do within the field of soil science to make a science for all people. 
 

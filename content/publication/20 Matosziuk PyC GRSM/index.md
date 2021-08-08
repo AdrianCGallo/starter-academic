@@ -16,8 +16,8 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Frontiers in Forest and Global Change
-publication_short: 
-location: 
+publication_short: Frontiers in Forest and Global Change
+location: Frontiers in Forest and Global Change
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -47,6 +47,7 @@ image:
 links:
 - icon: google-scholar 
   icon_pack: ai
+  name: Google Scholar
   url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:_FxGoFyzp5QC
 url_code: ""
 url_pdf: TalksPubs/Matosziuk_2020_GRSM_PyC.pdf

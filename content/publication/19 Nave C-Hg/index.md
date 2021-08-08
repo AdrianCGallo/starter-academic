@@ -15,7 +15,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Soil Science Society of America Journal
-publication_short: SSSA
+publication_short: Soil Science Society of America Journal
 location: Soil Science Society of America Journal
 
 # Talk start and end times.

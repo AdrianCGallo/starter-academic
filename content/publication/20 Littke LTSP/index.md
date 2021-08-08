@@ -16,8 +16,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Forest Ecology and Management
-publication_short: FEM
-
+publication_short: Forest Ecology and Management
 location: Forest Ecology and Management
 
 # Talk start and end times.
@@ -49,6 +48,7 @@ image:
 links:
 - icon: google-scholar 
   icon_pack: ai
+  name: Google Scholar
   url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:hqOjcs7Dif8C
 url_code: ""
 url_pdf: TalksPubs/Littke_2020_NARA.pdf

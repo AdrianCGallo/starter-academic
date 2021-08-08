@@ -25,7 +25,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Soil Science Society of America Annual meeting - San Antonio, TX
-publication_short: SSSA
+publication_short: Soil Science Society of America
 
 summary: Finding carbon in soils is easy, tracing where it came from is hard and tracing that carbon *down* the soil profile is even harder. Here I presented some of my dissertation work where we examine plant derived carbon compounds across the NEON sites, and down soil profiles often reaching 1-meter or more in depth.
 
