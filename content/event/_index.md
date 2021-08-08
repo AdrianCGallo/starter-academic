@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Events & Talks
 cms_exclude: true
 
 # View.

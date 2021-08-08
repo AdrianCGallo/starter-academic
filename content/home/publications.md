@@ -9,10 +9,10 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 50
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'Looking for a specific conference talk or pub? Try [filtering publications](./publication/)'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -33,12 +33,8 @@ content:
 design:
   # Choose a view for the listings:
   #   1 = List
-  #   2 = Compact
+  #   2 = Compact --> My favorite: it shows a screenshot, and the 'summary' information as part of the preview. 
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 2
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
