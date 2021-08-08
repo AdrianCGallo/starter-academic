@@ -1,5 +1,5 @@
 ---
-title: Writing Examples from Inspiration Dissemination - Radio show, podcast, and blog
+title: Influential Episodes from Inspiration Dissemination
 
 authors:
 - admin
