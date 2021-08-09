@@ -45,6 +45,8 @@ links:
   url: https://twitter.com/AdrianCGallo/status/1091491319707385858?s=20 
 ---
 
+_Be patient ... content still being written_
+
 ## Some Background
 
 A few summers back I was on a campaign to dig 10 quantitative soil pits across the [HJ Andrews Experimental Forest](https://andrewsforest.oregonstate.edu/about) to better understand one of the longest studied watersheds in the world. Surprisingly, not many *soil* scientists had tried to map out the watershed, and it turns out if you care about water, tree productivity, salamander habitat, and basically anything else on soils (i.e. everything) it helps to know what soil is beneath your feet! 
