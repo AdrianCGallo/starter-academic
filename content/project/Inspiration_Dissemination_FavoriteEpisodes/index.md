@@ -90,6 +90,7 @@ I started co-hosting the show because I thought it would just be a fun endeavors
   + How a natural ocean CO2 seep is a stand-in for what the ocean *could* look like in the nearby future. 
   + Read Grace Klinges' [blog post](https://blogs.oregonstate.edu/inspiration/2018/01/14/small-differences-big-consequences-keep-oceans-happy/), or listen to her [podcast episode](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?i=1000400174648). 
 
+<br>
 
 **Andrea Haverkamp**
   + It should not be a surprise that Oregon State, being a land-grand university, has a large engineering program and is dominated by men. But *should* it come as a surprise that the photo of the 2018 SpaceX falcon heavy launch was as overwhelmingly white-male dominated as was the case during the NASA space race from the 1960's? Andrea's PhD research examines what happens in an engineering workplace that keeps these disparities stable, despite the fact that "*girls get better grades than their male counterparts from kindergarten through high school, girls have a similar level of STEM interest as their male counterparts early in their schooling career and within the last decade women outnumber men among college graduates.*"
