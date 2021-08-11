@@ -47,6 +47,9 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 
 social:
+- icon: school
+  icon_pack: fas
+  link: https://cropandsoil.oregonstate.edu/users/adrian-gallo 
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
@@ -56,9 +59,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/adriancgallo/
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # `google-scholar` icon from `ai` icon pack or graduation-cap with the fas pack 
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=miYEsFoAAAAJ&hl=en/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7913-9280
 
 
 
