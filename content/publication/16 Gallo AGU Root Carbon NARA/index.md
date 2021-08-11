@@ -66,5 +66,5 @@ projects:
 
 Forest soils are can be resilient to harvesting, but what about two or three or four rotations worth of biomass removals? Here I present some work from my Masters, combining it with one chapter of my dissertation on the resilience of soil-C following harvesting (it's all the roots!)
 
-You can download the {{% staticref "TalksPubs/Gallo_16_AGU_NARA_Presentation.pdf" "newtab" %}}AGU presentation{{% /staticref %}}. If you like this presentation, I present the same work {{% staticref "TalksPubs/Gallo_18_NAFSC_NARA_Poster.pdf" "newtab" %}}as a poster{{% /staticref %}} from a 2018 North American Forest Soils Council meeting in Quebec, Canada.
+You can download the {{% staticref "TalksPubs/Gallo_16_AGU_NARA_Presentation.pdf" "newtab" %}}AGU presentation{{% /staticref %}}. If you like this presentation, I presented the same work {{% staticref "TalksPubs/Gallo_18_NAFSC_NARA_Poster.pdf" "newtab" %}}as a poster{{% /staticref %}} from a 2018 North American Forest Soils Council meeting in Quebec, Canada.
 
