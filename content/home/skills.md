@@ -46,7 +46,7 @@ feature:
 - description: 
   icon: microphone-alt
   icon_pack: fas
-  name: Podcasting & Audio Production
+  name: Podcast & Audio Production
 
 
 # Uncomment to use emoji icons.
