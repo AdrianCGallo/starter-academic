@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: NARA
-    tag: NARA
+  - name: Long-Term Soil Productivity
+    tag: Long-Term Soil Productivity
   - name: NEON
     tag: NEON
   - name: HJ Andrews
