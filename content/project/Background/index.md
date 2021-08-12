@@ -1,6 +1,7 @@
 ---
 title: Background
-summary: How did I get to today?   
+subtitle: How did I get to today?   
+
 
 authors:
 - admin
@@ -10,7 +11,7 @@ active: true
 
 
 tags:
-- History
+- Background
 
 categories:
 - SciComm
@@ -26,21 +27,15 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: See Thread
-  url: https://twitter.com/AdrianCGallo/status/1006012766476333056?s=20
+#- icon: twitter
+#  icon_pack: fab
+#  name: See Thread
+#  url: https://twitter.com/AdrianCGallo/status/1006012766476333056?s=20
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
 ---
 
 I grew up along California’s San Juaquin Delta, in the shadow of a Chevron oil refinery. Luckily,  I had parents who thought it was cool to hike miles into the Sierra Nevada mountains, poop in holes you frantically dug, and sleep on the ground for fun! (aka backpacking.) I was fascinated by how those huge pine trees seemingly grew out of pure granodiorite. But, the dichotomy of drinking from deliciously sweet alpine lakes for vacations and returning to the “no swimming” Delta waters in my backyard was a bit confusing. That has continued to shape my path today. 
