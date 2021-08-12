@@ -53,19 +53,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/AdrianCGallo/
+
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/adriancgallo/
-- icon: google-scholar  # `google-scholar` icon from `ai` icon pack or graduation-cap with the fas pack 
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=miYEsFoAAAAJ&hl=en/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7913-9280
-
+- icon: google-scholar  # `google-scholar` icon from `ai` icon pack or graduation-cap with the fas pack 
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=miYEsFoAAAAJ&hl=en/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/AdrianCGallo/
 
 
 
