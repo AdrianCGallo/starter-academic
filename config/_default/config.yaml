@@ -5,7 +5,7 @@
 
 title: Adrian C. Gallo # Website name
 baseurl: '' # Website URL
-copyright: 'Adrian C. Gallo ©2021 ' # Footer text, e.g. '© {year} Me'
+copyright: 'Adrian C. Gallo ©2021  - [**Scroll back to the top**](#about)' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -35,7 +35,7 @@ paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$, \.Rhistory$]
 permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
