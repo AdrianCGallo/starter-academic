@@ -1,7 +1,6 @@
 ---
-title: Background
+title: My Background
 subtitle: How did I get to today?   
-
 
 authors:
 - admin
@@ -12,6 +11,7 @@ active: true
 
 tags:
 - Background
+- SciComm
 
 categories:
 - SciComm
