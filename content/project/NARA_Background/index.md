@@ -6,7 +6,7 @@ authors:
 - admin
 
 tags:
-- Long-term Soil Productivity
+- Long-Term Soil Productivity
 - Forests
 - O-Horizons
 - Soil
@@ -14,7 +14,7 @@ tags:
 - Pacific Northwest
 
 categories:
-- Long-term Soil Productivity
+- Long-Term Soil Productivity
 
 
 date: "2021-04-27T00:00:00Z"
@@ -49,10 +49,10 @@ _Be patient ... content still being written_
 _You can see the [conference presentations](https://adriancgallo.com/publication/16-gallo-agu-root-carbon-nara) if you prefer, but this will be one of a multi-part series on this topic. Read more below:_ 
 
 - _Pacific Northwest forest management & the potential for biomass harvesting_
-- _The Long-term soil productivity (LTSP) experiment, decades later_
-    _A fellow student in Dr. Hatten's lab is currently exploring Long-term soil productivity sites that have exceeded 30-years of treatment time. Keep an eye out for Stephanie Winters_
+- _The Long-term soil productivity (LTSP) experiment, decades later._
+    _<Br> A fellow student in Dr. Hatten's lab is currently exploring Long-term soil productivity sites that have exceeded 30-years of treatment time. Keep an eye out for Stephanie Winters_
 - _[Soil biophysical responses in the two years following a LTSP installation](https://drive.google.com/file/d/1tFufytaFKxY0QpeoFEQr8pmXmkvs1HNF/view?usp=sharing)_
-- _Soil organic matter resilience from root-derived carbon in an LTSP experiment](https://adriancgallo.com/publication/16-gallo-agu-root-carbon-nara/)_
+- _[Soil organic matter resilience from root-derived carbon in an LTSP experiment](https://adriancgallo.com/publication/16-gallo-agu-root-carbon-nara/)_
 
 
 
