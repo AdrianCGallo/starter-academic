@@ -36,9 +36,9 @@ abstract: "As intensive management of forest plantations and interest in harvest
 
 
 authors: []
-tags: [Soil, Nutrients, Long-Term Soil Productivity, Nitrogen, Herbicide, Douglas-fir, PNW]
+tags: [Soil, Nutrients, LTSP, Nitrogen, Herbicide, Douglas-fir, PNW]
 
-categories: Long-Term Soil Productivity
+categories: LTSP
 
 # Is this a featured talk? (true/false)
 featured: false

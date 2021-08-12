@@ -33,7 +33,8 @@ abstract: "Although soil carbon is known to hold at least two times as much carb
 
 
 authors: [admin]
-tags: [Soil, Harvest, NARA, Root, Shoot, Cutin, Suberin, Presentation]
+tags: [LTSP, Soil, Harvest, NARA, Root, Shoot, Cutin, Suberin, Presentation]
+categories: LTSP
 
 # Is this a featured talk? (true/false)
 featured: false

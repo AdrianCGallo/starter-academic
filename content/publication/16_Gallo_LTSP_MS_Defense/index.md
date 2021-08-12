@@ -37,7 +37,9 @@ abstract: ""
 
 
 authors: [admin]
-tags: [Soil, Long-Term Soil Productivity, Biophysical, Soil Temperature, Soil Moisture, Soil Respiration, Presentation]
+tags: [Soil, LTSP, Biophysical, Soil Temperature, Soil Moisture, Soil Respiration, Presentation]
+
+Categories: LTSP
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -71,7 +73,7 @@ projects:
 I was incredibly surprised at just how resiliant these soils are to **intense** biomass removals and compaction treatments. It may be temping to think _all_ foresets might respond this way, but I strongly disagree. This is one of the most productive forests in the Pacific Northwest. But not all sites will have this much sun, very deep soils practically absent of rock really helps plant available water, with a heavy pedogenic influence from volcanic activity. Starting with a soil bulk density of ~0.6 g/cm3 is getting into Andisol territory. But all the compaction in the world only got the soils to ~0.88 g/cm3. Basically, if you start with a oober-productive site, it's pretty hard to mess it up. That is, unless fires come through. 
 
 
-Download the original [presentation PDF](https://drive.google.com/file/d/1tFufytaFKxY0QpeoFEQr8pmXmkvs1HNF/view?usp=sharing).  
+Download the original [presentation PDF](https://drive.google.com/file/d/1tFufytaFKxY0QpeoFEQr8pmXmkvs1HNF/view?usp=sharing), or the actual [Masters thesis](https://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/60087/GalloAdrianC2017.pdf?sequence=1).
 
 
 
