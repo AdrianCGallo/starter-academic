@@ -1,11 +1,11 @@
 ---
 
-title: "Does Root Carbon from Harvested Trees Replace Mineral Carbon?" 
-subtitle: "Effects of LTSP Treatments in a Western Oregon Douglas-fir Forest"
+title: "Responses in soil following intensive biomass and compaction treatments in the Oregon Cascades" 
+# subtitle: ""
  
 
 
-active: false 
+active: true
 
 location: Master of Science Defense
 
