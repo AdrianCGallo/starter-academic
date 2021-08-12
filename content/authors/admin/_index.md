@@ -82,6 +82,6 @@ email: "adrian[dot]gallo[at]oregonstate[dot]edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! I am formally trained as a terrestrial carbon biogeochemist (aka I know dirt). But, as a future career, I’m exploring science communication and climate change adaptation policy through an environmental justice framework. When not science-ing you can find me running in circles, mountain biking, or playing soccer. To learn how I got to where I am today, read my [Background](https://adriancgallo.com/project/Background). <Br> Cheers <Br> ~Adrian
+Hello! I am formally trained as a terrestrial carbon biogeochemist (aka I know dirt). But, as a future career, I’m exploring science communication and climate change adaptation policy through an environmental justice framework. When not science-ing you can find me running in circles, mountain biking, or playing soccer. To learn how I got to where I am today, read my Background below. <Br> Cheers <Br> ~Adrian
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AdrianCGallo_CV.pdf" "newtab" >}}CV
