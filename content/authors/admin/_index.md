@@ -82,7 +82,7 @@ email: "adrian[dot]gallo[at]oregonstate[dot]edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! I am formally trained as a terrestrial carbon biogeochemist (aka I know dirt). But, as a future career, I’m exploring science communication and climate change adaptation policy through an environmental justice framework. When not science-ing you can find me running in circles, mountain biking, or playing soccer. 
+Hello! I am formally trained as a terrestrial carbon biogeochemist (aka I know dirt). But, as a future career, I’m exploring science communication and climate change adaptation policy through an environmental justice framework. When not science-ing you can find me running in circles, mountain biking, playing soccer, or interviewing people on a podcast I co-host: [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}). 
 <Br> 
 
 {{< spoiler text="Click here to learn my Background" >}}
@@ -92,7 +92,7 @@ I studied soil science and geology at Cal Poly, San Luis Obispo where I spent al
 
 Eventually I made my way to Oregon State University examining a long-term soil productivity experiment for a Masters degree. Nearing graduation from that project, my adviser (Dr. Jeff Hatten) was awarded a grant analyzing soil organic matter characteristics at the National Ecological Observatory Network. As a consequence of luck and circumstance, I continued my academic career with Dr. Hatten through a soil science PhD program where I expect to complete my degree in late 2021. Ironically, while I’ve become deeply enamored by soil science I do not expect to remain in the field. Instead, I hope to use what I’ve learned about our wonderful interconnected ecosystems and apply that to a more people-center approach. If you can’t tell, I’m still searching for a future career, but I am hoping to leave Earth, and its people, in better shape than when I entered it.  
 
-In my spare time I enjoy mountain biking, running in circles, playing soccer, and am a co-host for my university science communication podcast, [Inspiration Dissemination](https://adriancgallo.com/project/inspiration_dissemination_favoriteepisodes/)
+In my spare time I enjoy mountain biking, running in circles, playing soccer, and am a co-host for my university science communication podcast, [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}})
 {{< /spoiler >}} 
 
 
