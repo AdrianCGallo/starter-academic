@@ -14,7 +14,7 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m trained as a terrestrial carbon biogeochemist (aka I know dirt). I’m currently exploring science communication and climate change policy through an environmental justice framework as a future career. When not science-ing you can find me running, mountain biking, or playing soccer.
+bio: I’m trained as a terrestrial carbon biogeochemist (aka I know a lot about dirt). I’m currently exploring science communication and climate change policy through an environmental justice framework as a future career. When not science-ing you can find me running, mountain biking, or playing soccer.
  
 
 # Interests to show in About widget
@@ -87,10 +87,10 @@ highlight_name: true
   # things here that are initially hidden. 
   # {{< /spoiler >}} 
 ---
-Hello! I am trained as a terrestrial carbon biogeochemist (aka I <3 dirt). You can find links to all the conferences I've presented at, and my publications are available for download below. But, as a future career, I’m exploring science communication and climate change adaptation policy through an environmental justice framework. 
+Hello! I'm trained as a terrestrial carbon biogeochemist (aka I know a lot about dirt). You can find links to all the conferences I've presented at, and my publications are available for download below. But as a future career, I’m exploring science communication and climate change adaptation policy through an environmental justice framework. 
 <Br>
 <Br> 
-When not science-ing you can find me running in circles, mountain biking, playing soccer, or interviewing people on a podcast I co-host, [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}). To learn more about me, read my [Background]({{< relref "/project/Background" >}}).
+When not science-ing you can find me running in circles, mountain biking, playing soccer, or interviewing people on a podcast I co-host, [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}). To learn more about my history, read my [Background]({{< relref "/project/Background" >}}).
 
 <Br> 
 
