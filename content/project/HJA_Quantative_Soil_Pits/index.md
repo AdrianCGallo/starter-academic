@@ -1,5 +1,5 @@
 ---
-title: How to dig a perfectly square hole
+title: How to dig a perfectly square hole at the HJ Andrews experimental forest
 subtitle: Ever wanted to see how perfectly square a cube you could dig? Well neither have I! But it turns out perfectly square holes are ideal for ecosystem-level carbon accounting. 
 
 # Summary for listings and search engines
