@@ -50,8 +50,9 @@ _You can see the [conference presentations](https://adriancgallo.com/publication
 
 - _Pacific Northwest forest management & the potential for biomass harvesting_
 - _The Long-term soil productivity (LTSP) experiment, decades later_
-- _Soil biophysical responses in the two years following a LTSP installation_
-- _Soil organic matter resilience from root-derived carbon in an LTSP experiment_
+    _A fellow student in Dr. Hatten's lab is currently exploring Long-term soil productivity sites that have exceeded 30-years of treatment time. Keep an eye out for Stephanie Winters_
+- _[Soil biophysical responses in the two years following a LTSP installation](https://drive.google.com/file/d/1tFufytaFKxY0QpeoFEQr8pmXmkvs1HNF/view?usp=sharing)_
+- _Soil organic matter resilience from root-derived carbon in an LTSP experiment](https://adriancgallo.com/publication/16-gallo-agu-root-carbon-nara/)_
 
 
 
