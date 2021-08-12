@@ -30,7 +30,7 @@ url_slides: ""
 url_video: ""
 
 # Summary for listings and search engines
-summary: I've been a host of this show since about 2014, since then I've written numerous stories about my fellow graduate students. This is a brief overview of some of them. 
+summary: I've been a co-host of this radio show & podcast show beginning in 2014. Each on-air interview is preceded with a written blog post advertising my fellow graduate students. This is a brief overview of some of them. 
 
 ---
 
@@ -39,7 +39,7 @@ summary: I've been a host of this show since about 2014, since then I've written
 
 # Overview
 
-I started co-hosting the show because I thought it would just be a fun endeavors to talk on the radio. Before long, I was being exposed to research I **NEVER** knew existed. I had conversations with physicists, biologists, and social scientists. The conversations were always about them presenting their research, but it was also about my (maybe selfish) curiosity about the world around me. All blog posts can be found on the [Inspiration Dissemination website](https://blogs.oregonstate.edu/inspiration/), and [podcast episodes](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?mt=2) are available through 2015. But if you can only listen to one, scroll down to Holly Horan.
+I started co-hosting the show because I thought it would just be a fun endeavors to talk on the radio. Before long, I was being exposed to research I **NEVER** knew existed. I had conversations with physicists, biologists, and social scientists. The conversations were always about them presenting their research, but it was also about my (maybe selfish) curiosity about the world around me. All blog posts can be found on the [Inspiration Dissemination website](https://blogs.oregonstate.edu/inspiration/), and [podcast episodes](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?mt=2) are available through 2015. But if you can only listen to one, scroll down to Holly Horan. I am the primary author of the blogs listed below unless otherwise noted. 
 
 
 <br> 
@@ -94,7 +94,7 @@ I started co-hosting the show because I thought it would just be a fun endeavors
 
 **Andrea Haverkamp**
   + It should not be a surprise that Oregon State, being a land-grand university, has a large engineering program dominated by men. But *should* it come as a surprise that the photo of the 2018 SpaceX falcon heavy launch was as white-male dominated as NASA photos during the space race from the 1960's? Andrea's PhD research examines what happens in an engineering workplace that keeps these disparities stable, despite the fact that *"girls get better grades than their male counterparts from kindergarten through high school, girls have a similar level of STEM interest as their male counterparts early in their schooling career and within the last decade women outnumber men among college graduates."*
-  + Read Andrea Haverkamp's [blog post](https://blogs.oregonstate.edu/inspiration/2018/03/04/workplace-woes-women-engineering/), or listen to the [podcast episode](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?i=1000404907502). 
+  + Read Andrea Haverkamp's [blog post](https://blogs.oregonstate.edu/inspiration/2018/03/04/workplace-woes-women-engineering/) that she primarily wrote and we lightly edited, or listen to the [podcast episode](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?i=1000404907502). 
 
 
 **Christina Hospodar**
@@ -118,7 +118,7 @@ I started co-hosting the show because I thought it would just be a fun endeavors
 
 **Holly Horan**
   + If you can only listen to one episode, this is it. On the surface, Holly's research seems straightforward; pregnancy is stressful. Monitoring maternal stress through hair cortisol sampling can inform policy on when during/after pregnancy are women most stressed, and try and alleviate those stressful time-points for future mothers. But what happens when the community you're researching is a community that were [forcibly] coerced into being test subjects for the development of birth control? What happens when the island you live on has declared bankruptcy to the colonial power that extracted wealth and resources from your lands? What happens when a hurricane rips through your island while your pregnant?  Can you imagine the stress? Neither can I. Holly's research on Puerto Rican women is part social psychology, ethnography, history,  biochemistry; and she did all this as a Puerto Rican who gave birth during her PhD. Holly doesn't know this, but I constantly revisit this interview because of how intertwined history is with our present, and how science can only do so much if the *people* are left out of the conversation.
-  + Read Holly Horan's [blog post](https://blogs.oregonstate.edu/inspiration/2018/12/09/1487/), or listen to the [podcast episode](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?i=1000425592871 ), 
+  + Read Holly Horan's [blog post](https://blogs.oregonstate.edu/inspiration/2018/12/09/1487/) that was written by Daniel Watkins, or listen to the [podcast episode](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?i=1000425592871 ), 
   
 
 <br>
