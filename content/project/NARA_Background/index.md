@@ -6,7 +6,7 @@ authors:
 - admin
 
 tags:
-- Long-Term Soil Productivity
+- LTSP
 - Forests
 - O-Horizons
 - Soil
@@ -14,7 +14,7 @@ tags:
 - Pacific Northwest
 
 categories:
-- Long-Term Soil Productivity
+- LTSP
 
 
 date: "2021-04-27T00:00:00Z"
@@ -42,17 +42,28 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+
+# Figured it out!! Hooray! 
+# For categories:
+  # [See all NEON stories]({{< relref "/categories/NEON" >}})
+  # [See all SciComm stories]({{< relref "/categories/SciComm" >}})
+# For publications/Projects: 
+  # [presentation]({{< relref "/publication/16_Gallo_LTSP_MS_Defense" >}})
+
+
 ---
+{{% callout note %}}
 
 _Be patient ... content still being written_
 
-_You can see the [conference presentations](https://adriancgallo.com/publication/16-gallo-agu-root-carbon-nara) if you prefer, but this will be one of a multi-part series on this topic. Read more below:_ 
+You can see the [conference presentations](https://adriancgallo.com/publication/16-gallo-agu-root-carbon-nara) if you prefer, but this will be one of a multi-part series on this topic. Read more below: 
+- Pacific Northwest forest management & the potential for biomass harvesting
+- The Long-term soil productivity (LTSP) experiment, decades later.
+    <Br> A fellow student in Dr. Hatten's lab is currently exploring Long-term soil productivity sites that have exceeded 30-years of treatment time. Keep an eye out for Stephanie Winters
+- [Soil biophysical responses in the two years following a LTSP installation]({{< relref "/publication/16_Gallo_LTSP_MS_Defense" >}})
+- [Soil organic matter resilience from root-derived carbon in an LTSP experiment]({{< relref "/publication/16_Gallo_AGU_RootCarbonNARA" >}})
 
-- _Pacific Northwest forest management & the potential for biomass harvesting_
-- _The Long-term soil productivity (LTSP) experiment, decades later._
-    _<Br> A fellow student in Dr. Hatten's lab is currently exploring Long-term soil productivity sites that have exceeded 30-years of treatment time. Keep an eye out for Stephanie Winters_
-- _[Soil biophysical responses in the two years following a LTSP installation](https://drive.google.com/file/d/1tFufytaFKxY0QpeoFEQr8pmXmkvs1HNF/view?usp=sharing)_
-- _[Soil organic matter resilience from root-derived carbon in an LTSP experiment](https://adriancgallo.com/publication/16-gallo-agu-root-carbon-nara/)_
+{{% /callout %}}
 
 
 
@@ -69,6 +80,6 @@ Using biofuels as a a way to limit our reliance on oil is not a new idea. But in
 Whether or not you believe me, this makes economic and ecologic sense!  However, it only makes sense for a rather specific set of circumstances; high fuel prices, high availability of forest biofuels, short transport routes, and the conversion to *jet* fuel. it just so happens, a few spots in the Pacific Northwest have those qualities (it's likely a few areas in California have similar qualities but it was not studied); lots of harvesting, lots of forest residuals, a (wild)fire issue, and Alaska Airlines had their central hub in Seattle (Alaska Airlines later became a funder of the project). There was a lot of promise, because you could create an economic incentive for thinning which also reduces the probability of high intensity wildfires, for the added benefit of offsetting some of our carbon footprint when flying. While the proof of concept was promising, along with all the [Life Cycle Analysis'](https://nararenewables.org/documents/2017/04/life-cycle-analysis-of-residual-woody-biomass-based-biofuel.pdf/) that were generated from the project, eventually gas prices dropped which made the economics drivers fall apart. It's still on the shelf, but no longer being actively pursued. I should also mention that the NARA project is how my Masters at Oregon State University was funded. 
 
 
-## Case-Study in the Oregon Cascades
-You can download my [Masters thesis](https://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/60087/GalloAdrianC2017.pdf?sequence=1), or check out the [conference presentations](https://adriancgallo.com/publication/16-gallo-agu-root-carbon-nara) of this work. 
-
+## Case-Study in the Oregon Cascades  
+- You can see my Masters thesis [presentation]({{< relref "/publication/16_Gallo_LTSP_MS_Defense" >}}) focusing on changes in bulk density, soil temperature, moisture, and soil respiration following biomass removals. 
+- You can also see the more mechanistic-biogeochemical focused analysis in my 2016 American Geophysical Union [presentation]({{< relref "/publication/16_Gallo_AGU_RootCarbonNARA" >}}) leveraging biomarkers to trace what source(s) soil carbon is coming from. 
