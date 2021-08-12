@@ -27,12 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Long-Term Soil Productivity
-    tag: Long-Term Soil Productivity
+  - name: LTSP
+    tag: LTSP
   - name: NEON
     tag: NEON
-  - name: HJ Andrews
-    tag: HJ Andrews
+  - name: HJ-Andrews
+    tag: HJ-Andrews
   - name: SciComm
     tag: SciComm
  
