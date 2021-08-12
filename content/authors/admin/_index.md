@@ -6,7 +6,7 @@ title: Adrian C. Gallo
 superuser: true
 
 # Role/position/tagline
-role: Graduate Research Assistant, Instructor
+role: Graduate Research Assistant, Instructor, He/Him. 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://cropandsoil.oregonstate.edu/users/adrian-gallo
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m trained as a terrestrial carbon biogeochemist (aka I know a lot about dirt). I’m currently exploring science communication and climate change policy through an environmental justice framework as a future career. When not science-ing you can find me running, mountain biking, or playing soccer.
+bio: I’m trained as a terrestrial carbon biogeochemist (aka I know dirt). I’m currently exploring science communication and climate change policy through an environmental justice framework as a future career. When not science-ing you can find me running, mountain biking, or playing soccer.
  
 
 # Interests to show in About widget
@@ -86,7 +86,7 @@ I grew up along California’s San Juaquin Delta, in the shadow of a Chevron oil
 
 I studied soil science and geology at Cal Poly, San Luis Obispo where I spent almost as much time outside hammering on rocks as I did inside analyzing soils. While at Cal Poly, I secured internships with the Forest Service in Alaska and Oregon using soils to inform land management recommendations. Leveraging some data gathered from the Oregon internship, and with the help of mentors, I participated in my first true research experience co-authoring a senior thesis on how forest management influenced soil properties. It was about that time I discovered this thing called *graduate school* where you get **paid** to learn and [try to] discover new things. How cool is that?! 
 
-Eventually I made my way to Oregon State University examining a long-term soil productivity experiment for a Masters degree. Nearing graduation from that project, my adviser (Dr. Jeff Hatten) was awarded a grant analyzing soil organic matter characteristics at the National Ecological Observatory Network. As a consequence of luck and circumstance, I continued my academic career with Dr. Hatten through a soil science PhD program where I expect to complete my degree in late 2021. Ironically, while I’ve become deeply enamored by soil science I do not expect to remain in the field. Instead, I hope to use what I’ve learned about our wonderful interconnected ecosystems and apply that to a more people-center approach. If you can’t tell, I’m still searching for a future career, but I am hoping to leave Earth, and its people, in better shape than when I entered it.
+Eventually I made my way to Oregon State University examining a long-term soil productivity experiment for a Masters degree. Nearing graduation from that project, my adviser (Dr. Jeff Hatten) was awarded a grant analyzing soil organic matter characteristics at the National Ecological Observatory Network. As a consequence of luck and circumstance, I continued my academic career with Dr. Hatten through a soil science PhD program where I expect to complete my degree in late 2021. Ironically, while I’ve become deeply enamored by soil science I do not expect to remain in the field. Instead, I hope to use what I’ve learned about our wonderful interconnected ecosystems and apply that to a more people-center approach. If you can’t tell, I’m still searching for a future career, but I am hoping to leave Earth, and its people, in better shape than when I entered it.  
 
 P.S. I use he/him/his pronouns. In my spare time I enjoy mountain biking, running in circles, playing soccer, and am a co-host for my university science communication podcast, [Inspiration Dissemination](https://adriancgallo.com/project/inspiration_dissemination_favoriteepisodes/).
 
