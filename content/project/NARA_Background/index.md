@@ -6,7 +6,7 @@ authors:
 - admin
 
 tags:
-- NARA
+- Long-term Soil Productivity
 - Forests
 - O-Horizons
 - Soil
@@ -14,7 +14,7 @@ tags:
 - Pacific Northwest
 
 categories:
-- NARA
+- Long-term Soil Productivity
 
 
 date: "2021-04-27T00:00:00Z"
