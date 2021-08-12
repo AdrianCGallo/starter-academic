@@ -10,7 +10,7 @@ tags:
 categories:
 - SciComm
 
-date: "2021-07-29T00:00:00Z"
+date: "2021-03-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -47,4 +47,4 @@ As of March 2020, about **300** interviews have been conducted. Because podcasts
 
 As of this writing (summer 2021), the university recently allowed students to record in the radio booth again. However, we normally take summer breaks off and the Delta variant is causing in-person restrictions to be reinstated. While we may not be able to return to the recording booth, we hope to adapt the show to record remotely for the 2021 academic school year and beyond. 
 
-You can check out my [favorite episodes](https://adriancgallo.com/project/inspiration_dissemination_favoriteepisodes/), or find the[full archive of my interviews & writing samples](https://blogs.oregonstate.edu/inspiration/author/galloa/) here.
+You can check out my [favorite episodes](https://adriancgallo.com/project/inspiration_dissemination_memorable_episodes/), or find the[full archive of my interviews & writing samples](https://blogs.oregonstate.edu/inspiration/author/galloa/) here.
