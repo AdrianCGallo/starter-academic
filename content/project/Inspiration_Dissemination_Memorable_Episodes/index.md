@@ -39,7 +39,11 @@ summary: I've been a co-host of this radio show & podcast show beginning in 2014
 
 # Overview
 
-I started co-hosting the show because I thought it would just be a fun endeavors to talk on the radio. Before long, I was being exposed to research I **NEVER** knew existed. I had conversations with physicists, biologists, and social scientists. The conversations were always about them presenting their research, but it was also about my (maybe selfish) curiosity about the world around me. All blog posts can be found on the [Inspiration Dissemination website](https://blogs.oregonstate.edu/inspiration/), and [podcast episodes](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?mt=2) are available through 2015. But if you can only listen to one, scroll down to Holly Horan. I am the primary author of the blogs listed below unless otherwise noted. 
+I started co-hosting the show in 2015 simply because I thought it would be fun to talk to people on the radio. Before long, I was being exposed to research I **NEVER** knew existed. I had conversations with physicists, oceanographers, and social scientists that have helped me grow as a scientist but also an individual. The interviews were always about their research, but it was also partly about my curiosity of the world around me. Below is a short list of the most memorable episodes. All my blog posts can be found on the [Inspiration Dissemination website](https://blogs.oregonstate.edu/inspiration/), or you can access our Apple [podcast page](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?mt=2). If you can only listen to one, scroll down to Holly Horan. 
+<br> 
+<br> 
+
+I am the primary author of the blogs listed below unless otherwise noted. 
 
 
 <br> 
@@ -118,7 +122,7 @@ I started co-hosting the show because I thought it would just be a fun endeavors
 
 **Holly Horan**
   + If you can only listen to one episode, this is it. On the surface, Holly's research seems straightforward; pregnancy is stressful. Monitoring maternal stress through hair cortisol sampling can inform policy on when during/after pregnancy are women most stressed, and try and alleviate those stressful time-points for future mothers. But what happens when the community you're researching is a community that were [forcibly] coerced into being test subjects for the development of birth control? What happens when the island you live on has declared bankruptcy to the colonial power that extracted wealth and resources from your lands? What happens when a hurricane rips through your island while your pregnant?  Can you imagine the stress? Neither can I. Holly's research on Puerto Rican women is part social psychology, ethnography, history,  biochemistry; and she did all this as a Puerto Rican who gave birth during her PhD. Holly doesn't know this, but I constantly revisit this interview because of how intertwined history is with our present, and how science can only do so much if the *people* are left out of the conversation.
-  + Read Holly Horan's [blog post](https://blogs.oregonstate.edu/inspiration/2018/12/09/1487/) that was written by [Daniel Watkins](https://danielmwatkins.com), or listen to the [podcast episode](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?i=1000425592871 ). 
+  + Holly Horan's [blog post](https://blogs.oregonstate.edu/inspiration/2018/12/09/1487/) was written by [Daniel Watkins](https://danielmwatkins.com), but we both interviewed her in the [podcast episode](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?i=1000425592871 ). 
   
 
 <br>
@@ -130,4 +134,4 @@ I started co-hosting the show because I thought it would just be a fun endeavors
 
 
 
-Interested in reading more about my work with Inspiration Dissemination? Check out the [archive of my interviews & blog posts](https://blogs.oregonstate.edu/inspiration/author/galloa/). 
+Interested in reading more about my work with Inspiration Dissemination? Check out the [archive](https://blogs.oregonstate.edu/inspiration/author/galloa/) of my interviews & blog posts. 
