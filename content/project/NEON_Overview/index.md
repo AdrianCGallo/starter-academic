@@ -46,17 +46,19 @@ summary: The NEON project was at its infancy when I began my dissertation. They 
 
 
 ---
+{{% callout note %}}
 
-_Be patient ... content still being written._
+_Be patient ... content still being written_
 
-_This is one of a multi-part series on my collaboration with the National Ecological Observatory (NEON) project, which is also a major part of my dissertation._ 
+This is one of a multi-part series on my collaboration with the National Ecological Observatory (NEON) project, which is also a major part of my dissertation.
+<Br>
 
-_Future posts will include:_
-- _Soil core collection from the NEON sites_
-- _Soil organic matter signatures from NEON sites_
-- _Fire histories of NEON sites_
+Future posts will include:  
+- Soil core collection from the NEON sites
+- [Soil organic matter signatures from NEON sites]({{< relref "/publication/19_Gallo_SSSA_RootsToRegolith" >}})
+- Fire histories of NEON sites - see [Twitter thread](https://twitter.com/AdrianCGallo/status/1082319604070834180)
 
-
+{{% /callout %}}
 
 
 ## Background

@@ -56,7 +56,7 @@ url_video: ""
 
 _Be patient ... content still being written_
 
-You can see the [conference presentations](https://adriancgallo.com/publication/16-gallo-agu-root-carbon-nara) if you prefer, but this will be one of a multi-part series on this topic. Read more below: 
+This will be one of a multi-part series on this topic. Read more below: 
 - Pacific Northwest forest management & the potential for biomass harvesting
 - The Long-term soil productivity (LTSP) experiment, decades later.
     <Br> A fellow student in Dr. Hatten's lab is currently exploring Long-term soil productivity sites that have exceeded 30-years of treatment time. Keep an eye out for Stephanie Winters
