@@ -11,7 +11,7 @@ active: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Recent Publications
+title: Publications & Talks
 subtitle: 'Looking for a specific conference talk or pub? Try [filtering publications](./publication/)'
 
 content:
