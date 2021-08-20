@@ -1,5 +1,5 @@
 ---
-title: Intensive Biomass Harvesting in the Oregon Cascades for Long-Term Forest Productivity (LTSP)
+title: Intensive Biomass Harvesting in the Oregon Cascades for Long-Term Soil Productivity (LTSP)
 summary: Forest management has strong effects on the landscapes, but what happens to soil carbon - and therefore site productivity - following intensive biomass harvesting?  
 
 authors:
