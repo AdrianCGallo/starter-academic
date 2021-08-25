@@ -23,7 +23,7 @@ date: "2021-08-11T00:00:00Z"
 external_link: ""
 
 image:
-  caption: I've been in so many soil pits I can't remember _exactly_ where this was taken. My guess is somewhere along the Oregon coast range. <Br> In hindsight, I doubt this was OSHA approved. Still fun though. <Br> Picture Credit - Jeff Hatten (_I think_) 
+  caption: I've been in so many soil pits I can't remember _exactly_ where this was taken. My guess is somewhere along the Oregon coast range. In hindsight, I doubt this was OSHA approved. Still fun though. <Br> Picture Credit - Jeff Hatten (_I think_) 
   focal_point: Smart
 
 links:
