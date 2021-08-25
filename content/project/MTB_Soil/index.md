@@ -4,6 +4,8 @@ title: My love of Mountain Biking Meets Soils
 # Should this page be shown on the website? 
 active: false
 
+draft: true
+
 authors:
 - admin
 # Change to Derek somethingrather
