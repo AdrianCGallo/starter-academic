@@ -65,5 +65,5 @@ projects:
 ---
 
 #### TLDR  
-This paper was built on a new method that was developed by Dr. Matosziuk. The Benzene Polycarboxylic Acid (BPCA) method allows us to determine the *quantity* and *quality* of pyrogenic carbon. This method was later expanded to include NEON sites, you can see a [conference poster](https://twitter.com/AdrianCGallo/status/1082319604070834180) summarizing the work, or you can {{% staticref "TalksPubs/Matosziuk_2020_GRSM_PyC.pdf" "newtab" %}}download the PDF{{% /staticref %}}.  
+This paper was built on a new method that was developed by Dr. Matosziuk. The Benzene Polycarboxylic Acid (BPCA) method allows us to determine the *quantity* and *quality* of **pyrogenic carbon**. This method was later expanded to include NEON sites, you can see a [conference poster](https://twitter.com/AdrianCGallo/status/1082319604070834180) summarizing the work, or you can {{% staticref "TalksPubs/Matosziuk_2020_GRSM_PyC.pdf" "newtab" %}}download the PDF{{% /staticref %}}.  
 
