@@ -59,6 +59,8 @@ url_video: "https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/122599"
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 
+abstract: "The National Ecological Observatory Network (NEON) is embarking on a 30-year continuous measurement endeavor and understanding what soils are present can help to inform all related fields explain patterns and processes moving forward. The majority of soils experiments only collect samples down to 30cm; however, we know soil profiles to be much deeper where a substantial amount of the carbon is stored. Our objective is to connect the deep horizon geochemistry characteristics to similar or less time-intensive observations of the surface soils. Using soil cores, up to 2m depth, from the NEON Soil Plots we composited by genetic horizon and focused analytical measurements on the A-horizon, upper B, and lower B-horizon to obtain a gradient of pedologic processes from the litter layer to parent material. Using density fractionation and the copper oxidation method we are able to determine (1) the relative contribution of plants and microbes to the soil organic matter (OM) pools and (2) source the OM from dominantly root vs shoot-type carbon. Based on the OM characteristics of the surface horizons we hope to better understand deeper horizon geochemistry processes than can help to inform future NEON studies, as well as other soils studies with only surface horizon data available. Results are forthcoming."
+
 projects:
 ---
 
