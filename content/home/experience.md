@@ -23,6 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Instructor of Record
+    company: Oregon State University - Cascades Campus
+    company_url: ''
+    company_logo: OSU_vertical_black
+    location: Corvallis, OR
+    date_start: '2021-10-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Teaching Introduction to Soil Science Lecture & Laboratory Classes
+        * Preparing Lectures, Quizzes, Exams, and Field Activities
+        * Responding to Student Questions & Concerns
+        * Converting Class to a Remote Instruction Format
+        
   - title: Graduate Research Assistant (Ph.D. Program)
     company: Oregon State University
     company_url: ''
@@ -70,7 +85,20 @@ experience:
         * Data Analysis of Experimental Treatments
         * Writing for Academic Journals
 
-
+#- title: House Director
+#    company: Phi Kappa Psi Fraternity
+#    company_url: ''
+#    company_logo: [CHANGE ME]
+#    location: Corvallis, OR
+#    date_start: '2013-09-01'
+#    date_end: '2021-09-30'
+#    description: |2-
+#        Responsibilities include:
+#        * Overseeing $$$$$$$$$$$$$$$ in house improvements and fixes
+#        * Liason Between Undergraduates and Alumni
+#        * Responding to Student Questions & Concerns
+#        * Converting Class to a Remote Instruction Format
+        
   - title: Biological Science Technician (Soils)
     company: USDA Forest Service - Rogue River Siskiyou National Forest
     company_url: ''
