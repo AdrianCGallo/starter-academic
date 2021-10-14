@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Instructor of Record
+  - title: Instructor of Record - SOIL 205/206
     company: Oregon State University - Cascades Campus
     company_url: ''
     company_logo: OSU_vertical_black
