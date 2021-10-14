@@ -37,7 +37,7 @@ url_slides: ""
 url_video: ""
 
 # Summary for listings and search engines
-summary: I was biking before I was digging holes, but the more holes I dug the more I liked biking on dirt. Here I was interviewed by a science journalist who like mountain biking, as do I. 
+summary: I was riding bikes before I was digging holes, but the more holes I dug the more I liked mountain biking. I was interviewed by a science journalist who like mountain biking and wanted to learn a bit about soil. Especially that sweet sweet loam. 
 
 #Archive words 
 ## Soil Background From my years presenting at soil-specific conferences I've made a lot of friends while there. One of the connections I made was with a Soil Science Society of America program lead who dealt with the communications side of the organization. She also coordinated the _Soil Matter!_ Blog series which I've contributed to. The field of soil science is small, but Susan Fisk happened to remember me when she received an interview request from NAME NAME to learn about soils in the context of mountain biking. After passing along my contact info, NAME NAME and I met so I could (hopefully) answer all his questions.  
