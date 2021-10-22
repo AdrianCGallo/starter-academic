@@ -27,7 +27,7 @@ experience:
     company: Oregon State University - Cascades Campus
     company_url: ''
     company_logo: OSU_vertical_black
-    location: Corvallis, OR
+    location: Bend, OR
     date_start: '2021-10-01'
     date_end: ''
     description: |2-
@@ -36,7 +36,7 @@ experience:
         * Teaching Introduction to Soil Science Lecture & Laboratory Classes
         * Preparing Lectures, Quizzes, Exams, and Field Activities
         * Responding to Student Questions & Concerns
-        * Converting Class to a Remote Instruction Format
+        * Adapting Class & Lab to a Remote Instruction Format
         
   - title: Graduate Research Assistant (Ph.D. Program)
     company: Oregon State University
