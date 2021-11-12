@@ -68,7 +68,7 @@ projects:
 ---
 
 #### TLDR   
-We learned from our previous paper [(Nave 2020)]({{< relref "/publication/21_Nave_SOC_Patterns" >}}) that SOM looks different across ecosystems. In this paper we move beyond simple storage calculations but onto SOM *vulnerability*. There is no universal way to define soil C vulnerability (chemical bond strength, carbon age, molecular size, etc..) but the transformation from SOM(s,l) to CO2(g) sure seems like good way to do it. 
+We learned from our previous paper ([Nave 2021]({{< relref "/publication/21_Nave_SOC_Patterns" >}})) that SOM looks different across ecosystems. In this paper we move beyond simple storage calculations but onto SOM *vulnerability*. There is no universal way to define soil C vulnerability (chemical bond strength, carbon age, molecular size, etc..) but the transformation from SOM(s,l) to CO2(g) sure seems like good way to do it. 
 
 Very few research run incubations for an entire year, few others run incubations with anything other than Organic or A-horizons, and almost nobody does year-long incubations with multiple horizons and multiple temperature + moisture conditions. This was a 1-yr incubation experiment from NEON's A and B horizons ran by Tyler Weiglein at Virginia Tech. This was a version of his Masters project, but with some changes. One change from his masters is that we used only the ambient temperature and field capacity soil incubations. There will be a subsequent paper that will look at comparisons between the moisture/temperature treatments. 
 
