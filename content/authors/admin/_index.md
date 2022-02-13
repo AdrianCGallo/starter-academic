@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Soil Science
     institution: Oregon State University
-    year: Expected 2021
+    year: Expected 2022
   - course: MS in Sustainable Forest Management
     institution: Oregon State University
     year: 2016
