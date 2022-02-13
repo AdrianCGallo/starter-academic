@@ -39,7 +39,7 @@ summary: I've been a co-host of this radio show & podcast show beginning in 2014
 
 # Overview
 
-I started co-hosting the show in 2015 simply because I thought it would be fun to talk to people on the radio. Before long, I was being exposed to research I **NEVER** knew existed. I had conversations with physicists, oceanographers, and social scientists that have helped me grow as a scientist but also an individual. The interviews were always about their research, but it was also partly about my curiosity of the world around me. Below is a short list of the most memorable episodes. All my blog posts can be found on the [Inspiration Dissemination website](https://blogs.oregonstate.edu/inspiration/), or you can access our Apple [podcast page](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?mt=2). If you can only listen to one, scroll down to Holly Horan. 
+I started co-hosting the show in 2015 simply because I thought it would be fun to talk to people on the radio. Before long, I was being exposed to research I **NEVER** knew existed. I had conversations with physicists, oceanographers, and social scientists that have helped me grow as a scientist but also an individual. The interviews were always about their research, but it was also partly about my curiosity of the world around me. Below is a short list of the most memorable episodes. All my blog posts can be found on the [Inspiration Dissemination website](https://blogs.oregonstate.edu/inspiration/), or you can access our Apple [podcast page](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?mt=2). If you can only listen to one, scroll down to either Holly Horan or Hannah Whitley. 
 <br> 
 <br> 
 
@@ -132,7 +132,13 @@ I am the primary author of the blogs listed below unless otherwise noted.
   + It's no secret, that the world is built around able-bodied people. Even with the advent of the Americans with Disabilities Act, there are everyday hurdles and limitations disabled people must figure out that other people don't even realize exist.  Oregon State University has an adaptive physical activity program aims to make movement, exercise, and personal development  more accessible for those with mobility limitations. Winston was a practicing physical therapist for a number of years, when he noticed some basic gaps in care that he was not able to provide his patients. Some issues began around primary care physicians not knowing all the benefits of PT. Other, more practical issues, revolved around patients not having the equipment at home to perform the recommended PT exercises. Winston's research aims to better inform primary care physicians on the full benefits of PT and to identify ways to encourage at-home PT exercise to be more successful. 
   + Read Winston Kennedy's [blog post](https://blogs.oregonstate.edu/inspiration/2020/01/26/work-your-body-work-your-brain/), or listen to the [podcast episode](https://podcasts.apple.com/us/podcast/winston-kennedy-work-your-body-work-your-brain/id1337404264?i=1000463814035). Winston was also selected to be part of an annual event we organize with the OSU Graduate School called [Grad Inspire](https://gradschool.oregonstate.edu/graduate-student-success/grad-inspire). You can watch his [speech from the 2020 event](https://media.oregonstate.edu/media/t/0_4s2s94e5).
 
+<br>
 
+**Hannah Whitley**
+  + I absolutely love Hannah's research. For the all the complicated things about fish habitat, agricultural production, water rights, land claims, there are people who disagree with one another and they will, one way or another, need to reach a consensus. But how can you create a model where everyone's voices are heard, so the final decision can be adhered to? Governance is key, but it's not easy. And while this is an especially thorny location (the Klamath River Basin), you can expext more conflict around water just like this to increase in the future. 
+  + You read my [blog post](https://blogs.oregonstate.edu/inspiration/2022/01/23/water-woes-of-the-west/) about Hannah's research, but I really encourage you listening to the [podcast episode](https://share.transistor.fm/s/6e5094c3) because we were able to peel back many layers that I could not address in the blogpost. 
+  
+<br>
 
 
 Interested in reading more about my work with Inspiration Dissemination? Check out the [archive](https://blogs.oregonstate.edu/inspiration/author/galloa/) of my interviews & blog posts. 
