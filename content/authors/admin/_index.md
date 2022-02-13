@@ -87,7 +87,7 @@ highlight_name: true
   # things here that are initially hidden. 
   # {{< /spoiler >}} 
 ---
-Hello! I’m a PhD candidate currently focusing on carbon and nutrient cycling in wildland ecosystems to better understand the future impacts of climate change on our environment. But, as a future career I’m exploring science communication and climate change adaptation policy through an environmental justice framework. You can find links to my conferences presentations and journal publications below.
+Hello! I’m a PhD candidate currently focusing on carbon and nutrient cycling in soils to better understand the future impacts of climate change on our environment. But, as a future career I’m exploring science communication and climate change adaptation policy through an environmental justice framework. You can find links to my conferences presentations and all journal publications [here]({{< relref "/publication" >}}).
 <Br>
 <Br> 
 When not science-ing you can find me running in circles, mountain biking, playing soccer, or interviewing people on a podcast I co-host, [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}). To learn more about my history read my [Background]({{< relref "/project/Background" >}}).
