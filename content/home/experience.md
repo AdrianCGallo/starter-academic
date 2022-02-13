@@ -29,7 +29,7 @@ experience:
     company_logo: OSU_vertical_black
     location: Bend, OR
     date_start: '2021-10-01'
-    date_end: ''
+    date_end: '2021-12-10'
     description: |2-
         Responsibilities include:
         
