@@ -3,7 +3,7 @@
 title: Adrian C. Gallo
 
 # Is this the primary user of the site?
-superuser: true
+superuser: true 
 
 # Role/position/tagline
 role: Graduate Research Assistant, <Br> Instructor, He/Him 
