@@ -109,10 +109,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Watershed Management Synthesis Plans
-        * Incorporating GIS & Field Verification
-        * Report Writing for Actionable Treatment Areas
-        * I figured out where on the watershed we could do treatments, and overlaid that with other management objectives to try and get two birds with one stone.
+        * Watershed management synthesis plans
+        * Incorporating GIS & field verification
+        * Report writing for actionable treatment areas
+        * I figured out where on the watershed we could do tree harvests and/or thinnings, and overlaid that with other management objectives to try and maximize utilization of minimal funds.
          
         
   - title: Biological Science Technician (Soils)
@@ -126,9 +126,9 @@ experience:
         Responsibilities include:
         
         * The **coolest** job I'll ever have
-        * Jumpin' outta helicopters to dig holes on steep hillsides
+        * Jumpin' outta helicopters to dig holes on steep hillsides to see how stable the soils actually were.
         * Navigating in a dense temperate rain forest. 
-        * Driving on forest roads with loggers that DGAF!        
+        * Driving on forest roads with loggers that drive like they're in a car derby.        
         
 
 design:
