@@ -39,7 +39,7 @@ summary: I've been a co-host of this radio show & podcast show beginning in 2014
 
 # Overview
 
-I started co-hosting the show in 2015 simply because I thought it would be fun to talk to people on the radio. Before long, I was being exposed to research I **NEVER** knew existed. I had conversations with physicists, oceanographers, and social scientists that have helped me grow as a scientist but also an individual. The interviews were always about their research, but it was also partly about my curiosity of the world around me. Below is a short list of the most memorable episodes. All my blog posts can be found on the [Inspiration Dissemination website](https://blogs.oregonstate.edu/inspiration/), or you can access our Apple [podcast page](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?mt=2). If you can only listen to one, scroll down to either Holly Horan or Hannah Whitley. 
+I started co-hosting the show in 2015 simply because I thought it would be fun to talk to people on the radio. Before long, I was being exposed to research I **NEVER** knew existed. I had conversations with physicists, oceanographers, and social scientists that have helped me grow as a scientist but also an individual. The interviews were always about their research, but it was also partly about my curiosity of the world around me. Below is a short list of the most memorable episodes. All my blog posts can be found on the [Inspiration Dissemination website](https://blogs.oregonstate.edu/inspiration/), or you can access our [podcast archive](https://feeds.transistor.fm/inspiration-dissemination) with links to your preferred podcast provider. If you can only listen to one, scroll down to either Holly Horan or Hannah Whitley. 
 <br> 
 <br> 
 
@@ -82,7 +82,7 @@ I am the primary author of the blogs listed below unless otherwise noted.
 <br> 
 
 **Zoe Alley**
-  + Our own human perceptions are not as rational as you may hope. 
+  + Our own human perceptions are not as rational as you may think. We discuss how our brains make instantaneous decisions on trustworthiness based on a person's facial structure, the implications for people with "untrustworthy" faces, and how these immediate and subconscious decisions can create a vicious cycle. There are obvious parallels to the concept of of inherent bias, but that concept is often discussed in a nebulous way where this was a really tangible and memorable study.   
   + Read Zoe Alley's [blog post](https://blogs.oregonstate.edu/inspiration/2017/06/04/trust-others-much-trust/), or listen to her [podcast episode](https://podcasts.apple.com/us/podcast/inspiration-dissemination/id1337404264?i=1000403285501). 
 
 
