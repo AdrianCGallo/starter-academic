@@ -87,7 +87,7 @@ highlight_name: true
   # things here that are initially hidden. 
   # {{< /spoiler >}} 
 ---
-- [ ] Hello! I’m a PhD candidate broadly working on how climate change is affecting ecosystem functions in deserts, forests, croplands and even boreal areas. My specialties include soil carbon and organic matter dynamics, fire effects on forests, deep soil characterization, organic matter sourcing techniques, and permafrost soils. I expect to complete my degree in Fall of 2022. However, as a future career, I’m exploring science communication and climate change adaptation policy through an environmental justice framework. You can find links to my conferences presentations and all journal publications [here]({{< relref "/publication" >}}).
+Hello! I’m a PhD candidate broadly working on how climate change is affecting ecosystem functions in deserts, forests, croplands and even boreal areas. My specialties include soil carbon and organic matter dynamics, fire effects on forests, deep soil characterization, organic matter sourcing techniques, and permafrost soils. I expect to complete my degree in Fall of 2022. However, as a future career, I’m exploring science communication and climate change adaptation policy through an environmental justice framework. You can find links to my conferences presentations and all journal publications [here]({{< relref "/publication" >}}).
 <Br>
 <Br> 
 When not science-ing you can find me running in circles, mountain biking, playing soccer, or interviewing fellow scientists on a podcast I co-host, [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}). To learn more about my history read my [Background]({{< relref "/project/Background" >}}).
