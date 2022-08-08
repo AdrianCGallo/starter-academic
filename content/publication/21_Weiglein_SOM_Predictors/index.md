@@ -76,4 +76,4 @@ In this paper, we found that the vulnerability (based on CO2 respiration) of soi
 
 {{% staticref "TalksPubs/Weiglein_2021_SOM_Predictors.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
 
-This paper was also highlighted by the Environmental Molecular Sciences Laboratory (EMSL), a Department of Energy facility. Check out the story titled: [Soil Depth Plays Role in Decomposition of Soil Organic Matter]("https://www.emsl.pnnl.gov/news/soil-depth-plays-role-in-decomposition-of-soil-organic-matter/8370").
+This paper was also highlighted by the Environmental Molecular Sciences Laboratory (EMSL), a Department of Energy facility. Check out the story titled: [Soil Depth Plays Role in Decomposition of Soil Organic Matter](https://www.emsl.pnnl.gov/news/soil-depth-plays-role-in-decomposition-of-soil-organic-matter/8370).
