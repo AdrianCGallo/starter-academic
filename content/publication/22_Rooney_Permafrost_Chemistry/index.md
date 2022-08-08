@@ -1,5 +1,5 @@
 ---
-title: The Impact of Freeze-Thaw History on Soil Carbon Response to Experimental Freeze-Thaw Cycles
+title: The Impact of freeze-thaw history on soil carbon response to experimental freeze-thaw cycles
 
 
 # Publication type.
@@ -27,7 +27,7 @@ all_day: true
 
 
 
-summary: Permafrost soils are some of the coolest things I've ever see, and the primary author, Dr. Erin Rooney, is showing us all her chemistry skills from the second chapter of her dissertation. If you want to see her first chapter, see her other permafrost paper above that describes some of the *physical* changes to permafrost when it undergoes freeze thaw cycles. But this paper is about the *chemical* changes that occur, and what that could mean for arctic-permafrost nutrient cycling.  
+summary: Permafrost soils are some of the coolest things I've ever seen, and the primary author, Dr. Erin Rooney, is showing us all her chemistry skills from the second chapter of her dissertation. If you want to see her first chapter, see her other permafrost paper above that describes some of the *physical* changes to permafrost when it undergoes freeze thaw cycles. But this paper is about the *chemical* changes that occur, and what that could mean for arctic-permafrost nutrient cycling.  
 
 abstract: "Freeze-thaw is a disturbance process in cold regions where permafrost soils are becoming vulnerable to temperature fluctuations above 0°C. Freeze-thaw alters soil physical and biogeochemical properties with implications for carbon persistence and emissions in Arctic landscapes. We examined whether different freeze-thaw histories in two soil systems led to contrasting biogeochemical responses under a laboratory-controlled freeze-thaw incubation. We investigated controls on carbon composition through Fourier- transform ion cyclotron resonance mass spectrometry (FT-ICR-MS) to identify nominal carbon oxidation states and relative abundances of aliphatic-type carbon molecules in both surface and subsurface soils. Soil cores (∼60 cm-depth) were sampled from two sites in Alaskan permafrost landscapes with different in situ freeze-thaw characteristics: Healy (>40 freeze-thaw cycles annually) and Toolik (<15 freeze-thaw cycles annually). FT-ICR-MS was coupled with in situ temperature data and soil properties (i.e., soil texture, mineralogy) to assess (a) differences in soil organic matter composition associated with previous freeze-thaw history and
 (b) sensitivity to experimental freeze-thaw in the extracted cores. Control (freeze-only) samples showed
