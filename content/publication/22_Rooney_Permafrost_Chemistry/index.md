@@ -53,7 +53,7 @@ links:
   name: Google Scholar
   url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=miYEsFoAAAAJ&citation_for_view=miYEsFoAAAAJ:-f6ydRqryjwC
 url_code: ""
-url_pdf: Rooney_2022_Permafrost_Chemistry.pdf
+url_pdf: TalksPubs/Rooney_2022_Permafrost_Chemistry.pdf
 url_slides: ""
 url_video: ""
 
