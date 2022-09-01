@@ -49,7 +49,7 @@ education:
 social:
 - icon: school
   icon_pack: fas
-  link: https://cropandsoil.oregonstate.edu/users/adrian-gallo 
+  link: https://directory.forestry.oregonstate.edu/people/gallo-adrian 
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
