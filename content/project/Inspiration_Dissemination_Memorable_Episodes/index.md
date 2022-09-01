@@ -117,6 +117,14 @@ I am the primary author of the blogs listed below unless otherwise noted.
 
 <br>
 
+
+### **Christopher Hughbanks**
+  + I was lucky enough to interview the Vice President of the local NAACP branch who is passionate about environmental justice. Unfortunately, he passion comes from frustration of how his hometown of Detroit handled flood(s) that disproportionately impacted renters and black communities. We begin the discussion about how one Detroit flood caused lasting damage, but we zoom out to discuss broader environmental injustices before finishing the episode with some tangible local actions someone can embark on if they live nearby. As more people are realizing, if you want to generate change, start locally first. 
+  + Environmental Justice is becoming a more popular concept, but in a weird paradox this is often the practice about damaging environmental contaminants that cause **in**justice. The decision about where to place freeways, landfills, and power plants were mostly done in the early to mid 1900's of US history. But these decisions continue to have implications today. Freeways were purposefully placed *through* black-majority areas, that both separated a thriving community and also caused ongoing noise and air and water pollution that disproportionately impacts those disenfranchised from local decision making. One recent developer accidentally said the quiet part out loud of why they choose to place a oil pipeline through a black community and avoiding a white community, they they choose the "[path of least resistance](https://www.buzzsprout.com/270210/10926498-lesson-2-raise-a-ruckus)". As the landing page of my website suggests, I hope to move away from the ivory tower and focus on a different career that allows me to use the skills I've learned about environmental science, but apply that in a more people-center approach. Environmental Justice seems like my next stepping stone, so here's the early phases of my conception around these topics. 
+  + Check out the blog [Environmental Justice, what it is and what to do about it](https://blogs.oregonstate.edu/inspiration/2022/08/24/environmental-justice-what-it-is-and-what-to-do-about-it/) or listen to the [episode directly](https://share.transistor.fm/s/ad19223c). 
+
+
+<br>
 ___ 
 
 <br>
