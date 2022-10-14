@@ -66,6 +66,7 @@ Nonetheless, I figured providing the deep thinking I've done so far is more help
 This was presented on the 12th of October 2022 
 - My defense on [YouTube](https://youtu.be/qrPpsV34E0A)
 - [Slide deck](https://docs.google.com/presentation/d/1YFLgXWVOdiGcBTpRh-1lsenn7OfK03Z5sY7ofKAPm1I/edit?usp=sharing) (with citations/links in the notes section)
+- My written [dissertation](https://drive.google.com/file/d/1IXhnLoeq5YN82jSYodhgGNKZWHJh6YVE/view?usp=sharing) in **draft** form
 - Inspiration Dissemination [homepage](https://blogs.oregonstate.edu/inspiration/) & [podcast archive](https://feeds.transistor.fm/inspiration-dissemination) 
 
 
