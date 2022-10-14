@@ -1,5 +1,5 @@
 ---
-title: Tracing Sources of Organic Matter Across Ecosystems and Down Soil Profiles
+title: I defended my PhD! 
 
 authors:
 - admin
@@ -38,7 +38,7 @@ url_slides: ""
 url_video: ""
 
 # Summary for listings and search engines
-summary: The NEON project was at its infancy when I began my dissertation. They were literally building and installing the ~30 sites around North America at the same time they were sampling soils for my project. Although my PhD focuses on the soils aspect, there is a wealth of publicly available data being generated that any scientist should be aware of.  
+summary: I successfully defended my PhD, and had a lot of fun* in the process (Type II fun). You can watch my presentation, look through my slides, and access my *draft* dissertation that still requires more edits before it's finalized. Enjoy.
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -61,7 +61,7 @@ _This dissertation is in draft form_
 
 I'm providing my written dissertation and presentation slides as I submitted them to my committee. Obviously there are __many__ edits. For example, I was rightfully scolded in the closed door session for saying "lignin content" when I should have said the more cumbersome "lignin contributions to the soil organic carbon pool". 
 
-Nonetheless, I figured providing the deep thinking I've done so far is more helpful than waiting another 3-6 months until it's finally published. 
+Nonetheless, I figured providing the deep thinking I've done so far is more helpful than waiting another 3-6 months until it's finally published. Besides, as someone passionate about SciComm I wanted this to be available sooner rather than later. 
 
 This was presented on the 12th of October 2022 
 - My defense on [YouTube](https://youtu.be/qrPpsV34E0A)
