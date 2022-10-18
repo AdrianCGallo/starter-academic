@@ -72,7 +72,9 @@ This was presented on the 12th of October 2022
 
 
 
+## Post defense notes
 
+I smashed a lot of content into 44 minutes of presentation time, and of course I missed a few things! First, managing soils as a natural climate solution is a technically complex problem. But I view the more difficult hurdle as predicting how _people_ will treat soil for the long-term. Second, as reiterated in my closed door session from my committee, I should have said/written the more cumbersome _"lignin contributions to the soil organic carbon pool"_ instead of _"lignin content"_. The former more accurately reflects what I measured, the latter is pretty ambiguous. Just another lesson learned in how SciComm shorthand conflicts with the need for scientists to be necessarily precise in our language.  Finally, I should have ended my NEON discussion with the idea that because I only looked at plant-derived organic matter, maybe the microbial world have something to offer I can't examine with my soil chemistry method. As always, more research needs to be done.
 
 
 
