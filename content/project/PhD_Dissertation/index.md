@@ -1,5 +1,6 @@
 ---
-title: I defended my PhD! 
+title: I finished my PhD! 
+
 
 authors:
 - admin
@@ -38,7 +39,7 @@ url_slides: ""
 url_video: ""
 
 # Summary for listings and search engines
-summary: I successfully defended my PhD, and had a lot of fun* in the process (Type II fun). You can watch my presentation, look through my slides, and access my *draft* dissertation that still requires more edits before it's finalized. Enjoy.
+summary: I successfully defended my PhD, and had a lot of [type II] fun in the process. You can watch my presentation, look through my slides, and access my *draft* dissertation that still requires more edits before it's finalized. Enjoy.
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -65,7 +66,7 @@ Nonetheless, I figured providing the deep thinking I've done so far is more help
 
 This was presented on the 12th of October 2022 
 - My defense on [YouTube](https://youtu.be/qrPpsV34E0A)
-- [Slide deck](https://docs.google.com/presentation/d/1YFLgXWVOdiGcBTpRh-1lsenn7OfK03Z5sY7ofKAPm1I/edit?usp=sharing) (with citations/links in the notes section)
+- My presentation notes and [Slide deck](https://docs.google.com/presentation/d/1YFLgXWVOdiGcBTpRh-1lsenn7OfK03Z5sY7ofKAPm1I/edit?usp=sharing) (with citations/links in the notes section)
 - My written [dissertation](https://drive.google.com/file/d/1IXhnLoeq5YN82jSYodhgGNKZWHJh6YVE/view?usp=sharing) in **draft** form
 - Inspiration Dissemination [homepage](https://blogs.oregonstate.edu/inspiration/) & [podcast archive](https://feeds.transistor.fm/inspiration-dissemination) 
 
