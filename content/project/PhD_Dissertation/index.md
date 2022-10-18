@@ -25,7 +25,7 @@ date: "2022-10-12T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Long time coming, but I defended my dissertation!  
+  caption: 
   focal_point: Smart
 
 links:
@@ -60,17 +60,15 @@ _This dissertation is in draft form_
 
 ## Background
 
-I'm providing my written dissertation and presentation slides as I submitted them to my committee. Obviously there are __many__ edits. For example, I was rightfully scolded in the closed door session for saying "lignin content" when I should have said the more cumbersome "lignin contributions to the soil organic carbon pool". 
+I'm providing my written dissertation and presentation slides as I submitted them to my committee. Obviously there are __many__ edits. Nonetheless, I figured providing the deep thinking I've done so far is more helpful than waiting another 3-6 months until it's finally published. As someone passionate about SciComm I wanted this to be available sooner rather than later.
 
-Nonetheless, I figured providing the deep thinking I've done so far is more helpful than waiting another 3-6 months until it's finally published. Besides, as someone passionate about SciComm I wanted this to be available sooner rather than later. 
-
-This was presented on the 12th of October 2022 
 - My defense on [YouTube](https://youtu.be/qrPpsV34E0A)
-- My presentation notes and [Slide deck](https://docs.google.com/presentation/d/1YFLgXWVOdiGcBTpRh-1lsenn7OfK03Z5sY7ofKAPm1I/edit?usp=sharing) (with citations/links in the notes section)
+- My presentation notes and [slide deck](https://docs.google.com/presentation/d/1YFLgXWVOdiGcBTpRh-1lsenn7OfK03Z5sY7ofKAPm1I/edit?usp=sharing) (with citations/links in the notes section)
 - My written [dissertation](https://drive.google.com/file/d/1IXhnLoeq5YN82jSYodhgGNKZWHJh6YVE/view?usp=sharing) in **draft** form
 - Inspiration Dissemination [homepage](https://blogs.oregonstate.edu/inspiration/) & [podcast archive](https://feeds.transistor.fm/inspiration-dissemination) 
 
 
+<br> 
 
 ## Post defense notes
 
