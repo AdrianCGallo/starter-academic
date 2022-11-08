@@ -1,64 +1,63 @@
 ---
- title: I finished my PhD! 
+title: I finished my PhD!
+
+authors:
+- admin
+
+tags:
+- NEON
+- NARA
+- Ecosystems
+- Soil
+- Continental
+- Long-term
+- Forests
+- SciComm
+
+categories:
+- NEON
+- NARA
+
+date: "2022-08-12T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption:
+  focal_point: Smart
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: See Thread
+  url: https://twitter.com/AdrianCGallo/status/1582776527799738369?s=20&t=AJ2VqP1mLIs0FR15lDJFVA
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Summary for listings and search engines
+summary: I successfully defended my PhD, and had a lot of [type II] fun in the process. You can watch my presentation, look through my slides, and access my *draft* dissertation that still requires more edits before it's finalized. Enjoy.  
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
 
 
- authors:
- - admin
 
- tags:
- - NEON
- - NARA
- - Ecosystems
- - Soil
- - Continental
- - Long-term
- - Forests
- - SciComm
+---
+{{% callout note %}}
 
- categories:
- - NEON
- - NARA
+_This dissertation is in draft form_
 
- date: "2022-10-12T00:00:00Z"
-
- # Optional external URL for project (replaces project detail page).
- external_link: ""
-
- image:
-   caption: 
-   focal_point: Smart
-
- links:
- - icon: twitter
-   icon_pack: fab
-   name: See Thread
-   url: https://twitter.com/AdrianCGallo/
- url_code: ""
- url_pdf: ""
- url_slides: ""
- url_video: ""
-
- # Summary for listings and search engines
- summary: I successfully defended my PhD, and had a lot of [type II] fun in the process. You can watch my presentation, look through my slides, and access my *draft* dissertation that still requires more edits before it's finalized. Enjoy.
-
- # Slides (optional).
- #   Associate this project with Markdown slides.
- #   Simply enter your slide deck's filename without extension.
- #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
- #   Otherwise, set `slides = ""`.
- # slides: example
+{{% /callout %}}
 
 
-
- ---
- {{% callout note %}}
-
- _This dissertation is in draft form_
-
- {{% /callout %}}
-
-
- ## Background
+## Background
 
  I'm providing my written dissertation and presentation slides as I submitted them to my committee. Obviously there are __many__ edits. Nonetheless, I figured providing the deep thinking I've done so far is more helpful than waiting another 3-6 months until it's finally published. As someone passionate about SciComm I wanted this to be available sooner rather than later.
 
@@ -70,7 +69,7 @@
 
  <br> 
 
- ## Post defense notes
+## Post defense notes
 
  I smashed a lot of content into 44 minutes of presentation time, and of course I missed a few things! First, I should have ended my NEON discussion with the caveat that because I only looked at plant-derived organic matter, maybe the microbial world has something to offer I can't examine with my soil chemistry method. As always, more research needs to be done. Second, as reiterated in my closed door session from my committee, I should have said/written the more cumbersome _"lignin contributions to the soil organic carbon pool"_ instead of _"lignin content"_. The former more accurately reflects what I measured, the latter is pretty ambiguous. Just another lesson learned in how SciComm shorthand conflicts with the need for scientists to be necessarily precise in our language. 
 
