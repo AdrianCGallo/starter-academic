@@ -87,7 +87,7 @@ highlight_name: true
   # things here that are initially hidden. 
   # {{< /spoiler >}} 
 ---
-Hello! I’m a recently minted PhD in soil science researching on how climate change is affecting a variety of ecosystems like deserts, grasslands, forests, and agricultural areas. My specialties include soil carbon and organic matter dynamics, fire effects on forests, deep soil characterization, biomarker sourcing techniques, and permafrost soils. I recently defended my PhD that you can watch [here]({{< relref "/project/phd_dissertation/" >}}), and you can find links to my conferences presentations and all journal publications [here]({{< relref "/publication" >}}). 
+Hello! I’m a recently minted PhD in soil science researching how climate change is affecting a variety of ecosystems like deserts, grasslands, forests, and agricultural areas. My specialties include soil carbon and organic matter dynamics, fire effects on forests, deep soil characterization, biomarker sourcing techniques, and permafrost soils. I recently defended my PhD that you can watch [here]({{< relref "/project/phd_dissertation/" >}}), and you can find links to my conferences presentations and all journal publications [here]({{< relref "/publication" >}}). 
 <Br>
 <Br>  
 As a future career I’m exploring science communication and climate change adaptation policy through an environmental justice framework. I'll begin applying for jobs in early 2023, so if you have any idea how to make this lab-rat-PhD to real-life-job transition I'll take any advice! 
