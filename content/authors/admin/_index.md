@@ -90,7 +90,7 @@ highlight_name: true
 Hello! I’m a recently minted PhD in soil science researching how climate change is affecting a variety of ecosystems like deserts, grasslands, forests, and agricultural areas. My specialties revolve around soil carbon, organic matter, fire effects on ecosystems, and permafrost soils, but you can learn more from my recorded PhD defense [here]({{< relref "/project/phd_dissertation" >}}). You can find links to my conferences presentations and all published journal articles [here]({{< relref "/publication" >}}). In addition to my academic pursuits, I also co-produced the [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) radio show, podcast, & blog where we interviewed graduate students about their research and personal stories. 
 <Br>
   
-As a future career I’m exploring science communication and climate adaptation policy through an environmental justice framework. I'll begin applying for jobs in early 2023, so if you more ideas on how to transition this technical-PhD to be helpful for the real world I'll take any advice! 
+As a future career I’m exploring science communication and climate adaptation policy through an environmental justice framework. I'll begin applying for jobs in early 2023, so if you have more ideas on how to transition this technical-PhD to be helpful for the real world I'll take any advice! 
 <Br>
 
 When not science-ing you can find me running in circles, mountain biking, playing soccer, or finally reading all the books I've neglected to finished during my PhD. To learn more about my history read my [Background]({{< relref "/project/Background" >}}).
