@@ -14,7 +14,7 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m trained as a terrestrial carbon biogeochemist (aka I know a lot about dirt). As a future career I’m currently exploring science communication and climate change policy through an environmental justice framework. When not science-ing you can find me running, mountain biking, or playing soccer.
+bio: I’m trained as a terrestrial biogeochemist (aka I know a lot about dirt). As a future career I’m currently exploring science communication and climate change adaptation policy through an environmental justice framework. When not science-ing you can find me running, mountain biking, or playing soccer.
  
 
 # Interests to show in About widget
@@ -77,7 +77,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "adrian~dot~gallo~at~oregonstate~dot~edu"
+email: "adriancgallo~at~lifetime~dot~oregonstate~dot~edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
