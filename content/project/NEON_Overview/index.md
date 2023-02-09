@@ -75,7 +75,7 @@ I like to think of NEON as a version 2.0 of the [Long-Term Ecological Research](
 
 Research on these LTER's continue today. For example, a [2020 publication](https://www.fs.fed.us/nrs/pubs/jrnl/2021/nrs_2021_campbell_001.pdf) from Hubbard Brook describes what they've learned after decades of cross-disciplinary research: 
 
-> "hydropedological studies have shed light on linkages between hydrologic flow paths and soil development that provide valuable perspective for managing forests and understanding stream water quality.
+> "hydropedological studies have shed light on linkages between hydrologic flow paths and soil development that provide valuable perspective for managing forests and understanding stream water quality."
 >
 > --- [Campbell et al., 2020](https://www.fs.fed.us/nrs/pubs/jrnl/2021/nrs_2021_campbell_001.pdf)
 
