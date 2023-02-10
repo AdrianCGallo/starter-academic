@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.85.0" #got this from the Netifly build...
+  HUGO_VERSION = "0.85.0-724D5DB5+extended" #got this from the Netifly build...
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
