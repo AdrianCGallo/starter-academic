@@ -39,7 +39,7 @@ authors: []
 tags: [NEON, Soil, SOM, Radiocarbon, Aridity, Soil Carbon Persistence, Potential Evaporative Transpiration (PET), Hydroclimatic thresholds]
 
 # Is this a featured talk? (true/false)
-featured: 
+featured: false
 
 image: 
   focal_point: Smart
