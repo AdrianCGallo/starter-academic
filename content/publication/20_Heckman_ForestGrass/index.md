@@ -36,7 +36,7 @@ abstract: "Variation in soil organic C (%OC) concentration has been associated w
 
 
 authors: []
-tags: [Soil, SOM, Radiocarbon, Density Fraction, Calclum Carbonate, Oxyhydroxides]
+tags: [NEON, Soil, SOM, Radiocarbon, Density Fraction, Calcium Carbonate, Oxyhydroxides]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -63,6 +63,7 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 
 projects:
+- NEON
 
 ---
 

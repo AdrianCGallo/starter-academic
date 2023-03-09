@@ -61,6 +61,7 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 
 projects:
+- NEON
 # Archive words: The National Ecological Observatory Network (NEON) integrates hard infrastructure along with cloud-based data products that are publicly available. In this paper we advertised just *some* of the capabilities that NEON currently has, and describe how other site-specific instruments/observations may be incorporated. 
 
 

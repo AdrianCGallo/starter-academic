@@ -35,7 +35,7 @@ abstract: "Fire affects the quantity and quality of soil organic matter (SOM). W
 
 
 authors: []
-tags: [Soil, SOM, Pyrogenic Carbon, Density Fraction, Wildfire, Great Smokey Mountain National Park]
+tags: [NEON, Soil, SOM, Pyrogenic Carbon, Density Fraction, Wildfire, Great Smokey Mountain National Park]
 
 # Is this a featured talk? (true/false)
 featured: false
