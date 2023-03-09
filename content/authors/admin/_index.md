@@ -6,7 +6,7 @@ title: Adrian C. Gallo
 superuser: true 
 
 # Role/position/tagline
-role: Ph.D, Researcher, <Br> Instructor, He/Him 
+role: Ph.D, Instructor, <Br> Researcher, He/Him 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -87,14 +87,13 @@ highlight_name: true
   # things here that are initially hidden. 
   # {{< /spoiler >}} 
 ---
-Hello! I’m a recently minted PhD in soil science researching how climate change is affecting a variety of ecosystems like deserts, grasslands, forests, and agricultural areas. My specialties revolve around soil carbon, organic matter, fire effects on ecosystems, and permafrost soils, but you can learn more from my [recorded PhD defense]({{< relref "/project/phd_dissertation" >}}), my [projects]({{< relref "/projects" >}}), or you can read all of my [published articles]({{< relref "/publication" >}}). In addition to my academic pursuits, I also co-produced the [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) radio show, podcast, & blog where we interviewed graduate students about their research and personal stories. I must admit, the science communication part was more fun than the science :P
+Hello! I’m a recently minted PhD in soil science researching how climate change is affecting a variety of ecosystems like deserts, grasslands, forests, and agricultural areas. My specialties include soil carbon, organic matter, fire effects on ecosystems, and permafrost soils, but you can learn more from my [recorded PhD defense]({{< relref "/project/phd_dissertation" >}}), my [projects]({{< relref "/projects" >}}), or through my [published articles]({{< relref "/publication" >}}). In addition to my academic pursuits, I also co-produced the [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) radio show, podcast, & blog where we interviewed graduate students about their research and personal stories. I must admit, the science communication part was sometimes more fun than the science :P
 <Br>
   
-As a future career I’m exploring science communication and climate adaptation policy through an environmental justice framework. I'll begin applying for jobs in early 2023, so if you have more ideas on how to transition this technical-PhD to be helpful for the real world I'll take any advice! 
+As a future career I’m exploring how I can contribute to the green energy transition and climate adaptation policy through an environmental justice framework. I'm applying for jobs now, so if you have more ideas on how to transition this technical-PhD to be helpful for the real world I'll take any advice! 
 <Br>
 
 When not science-ing you can find me running in circles, mountain biking, playing soccer, or finally reading all the books I've neglected to finished during my PhD. To learn more about my history read my [Background]({{< relref "/project/Background" >}}).
-
 <Br> 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AdrianCGallo_CV.pdf" >}}CV
