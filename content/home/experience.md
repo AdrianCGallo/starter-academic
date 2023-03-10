@@ -44,7 +44,7 @@ experience:
     company_logo: OSU_vertical_black
     location: Corvallis, OR
     date_start: '2016-06-01'
-    date_end: ''
+    date_end: '2022-12-31'
     description: |2-
         Responsibilities include:
         
