@@ -45,8 +45,8 @@ contact_links:
 #    link: 'https://twitter.com/AdrianCGallo'
   - icon: arrow-circle-up
     icon_pack: fas
-    name: Scroll back to the top
-    link: [Scroll back to the top](#about)
+    name: Back to the top
+    link: 'https://adriancgallo.com'
 
 
 
