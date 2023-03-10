@@ -46,7 +46,7 @@ contact_links:
   - icon: arrow-circle-up
     icon_pack: fas
     name: Scroll back to the top
-    url: [Scroll back to the top](#about)
+    link: [Scroll back to the top](#about)
 
 
 
