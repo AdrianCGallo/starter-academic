@@ -19,7 +19,7 @@ description: 'Website for @AdrianCGallo'
 twitter: 'https://twitter.com/AdrianCGallo'
 
 # Contact (edit or remove options as required)
-email: adriancgallo~at~icloud~dot~com
+email: adriancgallo~at~lifetime~dot~oregonstate~dot~edu
 phone: ''
 address:
   street: 3100 SW Jefferson Way
@@ -34,19 +34,19 @@ coordinates:
 directions: Peavy Forest Science Complex
 
 office_hours:
-  - 'Zoom Availability by Request'
+  - 'Consulting Services Available'
 
 # appointment_url: ' ' # Add calander link here, the image of a calander auto populates.
 
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Message Me on Twitter
-    link: 'https://twitter.com/AdrianCGallo'
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Message Me on Twitter
+#    link: 'https://twitter.com/AdrianCGallo'
   - icon: arrow-circle-up
     icon_pack: fas
     name: Scroll back to the top
-#   link: [Scroll back to the top](#about)
+    url: [Scroll back to the top](#about)
 
 
 
