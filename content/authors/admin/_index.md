@@ -6,7 +6,7 @@ title: Adrian C. Gallo
 superuser: true 
 
 # Role/position/tagline
-role: Ph.D, Instructor, <Br> Researcher, He/Him 
+role: PhD, Instructor, <Br> Researcher, He/Him 
 
 # Organizations/Affiliations to show in About widget
 organizations:
