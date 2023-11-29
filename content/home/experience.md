@@ -23,6 +23,23 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Climate Campaign Coordinator
+    company: Idaho Conservation league
+    company_url: 'https://www.idahoconservation.org/team-member/adrian-gallo/'
+#    company_logo: Find_new_ICL_Image
+    location: Boise, Idaho
+    date_start: '2023-08-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Developing and implementing climate campaign strategies that include scientific, legal, regulatory and grassroots tactics to make Idaho carbon neutral
+        * Building an understanding and consensus on climate smart policies
+        * Advocating for clean energy, electrified transportation, and social policies that ensure people are not left behind in this energy transition. 
+        * Establishing and building relationships with Tribes, agencies, elected officials, the business community, media and the public in order to build broad consensus for our overarching climate goals
+        
+        
+
   - title: Instructor of Record - SOIL 205/206
     company: Oregon State University - Cascades Campus
     company_url: ''
