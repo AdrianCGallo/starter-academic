@@ -6,7 +6,7 @@ title: Adrian C. Gallo
 superuser: true 
 
 # Role/position/tagline
-role: PhD, <Br> Climate Campaign Coordinator, <Br> He/Him 
+role: PhD, He/Him, <Br> Climate Campaign Coordinator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -50,7 +50,7 @@ education:
 social:
 - icon: school
   icon_pack: fas
-  link: https://directory.forestry.oregonstate.edu/people/gallo-adrian 
+  link: https://www.idahoconservation.org 
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
@@ -64,9 +64,9 @@ social:
 - icon: google-scholar  # `google-scholar` icon from `ai` icon pack or graduation-cap with the fas pack 
   icon_pack: ai
   link: https://scholar.google.com/citations?user=miYEsFoAAAAJ&hl=en/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/AdrianCGallo/
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/AdrianCGallo/
 
 
 
@@ -78,7 +78,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "adriancgallo~at~lifetime~dot~oregonstate~dot~edu"
+email: "agallo~at~idahoconservation~dot~org"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
