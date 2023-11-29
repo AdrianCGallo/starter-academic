@@ -19,19 +19,19 @@ description: 'Website for @AdrianCGallo'
 twitter: 'https://twitter.com/AdrianCGallo'
 
 # Contact (edit or remove options as required)
-email: adriancgallo~at~lifetime~dot~oregonstate~dot~edu
+email: agallo~at~idahoconservation~dot~org
 phone: ''
 address:
-  street: 3100 SW Jefferson Way
-  city: Corvallis
-  region: OR
-  postcode: '97331'
+  street: '710 North 6th Street'
+  city: Boise
+  region: ID
+  postcode: '83702'
   country: United States
   country_code: US
 coordinates:
-  latitude: '44.5643'
-  longitude: '-123.2859'
-directions: Peavy Forest Science Complex
+  latitude: ''
+  longitude: ''
+directions:
 
 office_hours:
   - 'Consulting Services Available'
