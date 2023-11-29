@@ -26,7 +26,7 @@ experience:
   - title: Climate Campaign Coordinator
     company: Idaho Conservation league
     company_url: 'https://www.idahoconservation.org/team-member/adrian-gallo/'
-#    company_logo: Find_new_ICL_Image
+    company_logo: ICL_base_logo
     location: Boise, Idaho
     date_start: '2023-08-01'
     date_end: ''
