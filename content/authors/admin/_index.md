@@ -6,24 +6,25 @@ title: Adrian C. Gallo
 superuser: true 
 
 # Role/position/tagline
-role: PhD, Instructor, <Br> Researcher, He/Him 
+role: PhD, <Br> Climate Campaign Coordinator, <Br> He/Him 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Oregon State University
-  url: 
+- name: Idaho Conservation League
+  url: https://www.idahoconservation.org/team-member/adrian-gallo/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m trained as a terrestrial biogeochemist (aka I know a lot about dirt). As a future career I’m currently exploring science communication and climate change adaptation policy through an environmental justice framework. When not science-ing you can find me running, mountain biking, or playing soccer.
- 
+bio: I’m formally trained as a terrestrial biogeochemist (aka I know a lot about how dirt influences ecosystems). My current role involves the intersection of energy and environmental policy, and trying to get the renewable energy transition hurry up in the most equitable way possible. Outside of the office you can find me running, mountain biking, rock climbing, or playing soccer.
+
 
 # Interests to show in About widget
 interests:
+- Renewable Energy Systems
 - Terrestrial Carbon Cycling
+- Transportation Infrastructure
 - Science Communication
-- Soil Carbon Policy
+- Energy Policy
 - Food Systems
-- Agriculture
 - Learning
 
 # Education to show in About widget
@@ -87,13 +88,14 @@ highlight_name: true
   # things here that are initially hidden. 
   # {{< /spoiler >}} 
 ---
-Hello! I’m a recently minted PhD in soil science researching how climate change is affecting a variety of ecosystems like deserts, grasslands, forests, and agricultural areas. My specialties include soil carbon, organic matter, fire effects on ecosystems, and permafrost soils, but you can learn more from my [recorded]({{< relref "/project/phd_dissertation" >}}) PhD defense, my [projects]({{< relref "/project" >}}), or through my [published]({{< relref "/publication" >}}) journal articles. In addition to my academic pursuits, I also co-produced the [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) radio show, podcast, & blog where we interviewed graduate students about their research and personal stories. I must admit, the science communication part was sometimes more fun than the science!
+Hello! I'm a climate nerd who decided to be part of the renewable energy transition instead of constantly doom scrolling IPCC reports. My current role as the Idaho Conservation League's Climate Campaign Coordinator involves the intersection of energy and environmental policy, with a special focus on transportation infrastructure, renewable energy siting, and building a public understanding of the stakes and possibilities of our rapidly changing world.
+
+Before moving into my current advocacy role, I got a PhD researching how climate change is affecting a variety of ecosystems like deserts, grasslands, forests, and agricultural areas. Prior to that, I worked on the Tongass and Rogue River-Siskiyou National Forests  building long-term forest management plans. My nerdy specialties include soil carbon dynamics, fire effects on ecosystems, permafrost soils, and carbon markets. You can learn more from my [recorded]({{< relref "/project/phd_dissertation" >}}) PhD defense, my [projects]({{< relref "/project" >}}), or my [published]({{< relref "/publication" >}}) journal articles. While my academic work is specifically focused on soils, it's connected to forest management, nature based climate solutions, and food systems more broadly.  
+
+During my graduate work I taught courses ranging from Intro to Environmental Science, Forest Biology, Watershed Hydrology, and many many Soil Science classes. I also co-produced the [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) radio show, podcast, & blog where we interviewed graduate students about their research and personal stories. I must admit, the science communication part was sometimes more fun than the science!
 <Br>
   
-As a future career I’m exploring how I can contribute to the green energy transition and climate adaptation policy through an environmental justice framework. I'm applying for jobs now, so if you have more ideas on how to transition this technical-PhD to be helpful for the real world I'll take any advice! 
-<Br>
-
-When not science-ing you can find me running in circles, mountain biking, playing soccer, or finally reading all the books I've neglected to finished during my PhD. To learn more about my history read my [Background]({{< relref "/project/Background" >}}).
+When not working you can find me running in circles, mountain biking, playing soccer, rock climbing, or trying to learn how to ski. To learn more about my history read my [Background]({{< relref "/project/Background" >}}).
 <Br> 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AdrianCGallo_CV.pdf" >}}CV
