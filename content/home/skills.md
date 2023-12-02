@@ -21,12 +21,12 @@ feature:
 - description: 
   icon: flask
   icon_pack: fas
-  name: Soil Chemistry 
+  name: Environmental Chemistry 
 
 - description: 
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Data Analysis
 
 - description: 
   icon: camera-retro
@@ -46,7 +46,7 @@ feature:
 - description: 
   icon: microphone-alt
   icon_pack: fas
-  name: Podcast & Audio Production
+  name: Interviewing & Audio Production
 
 
 # Uncomment to use emoji icons.
