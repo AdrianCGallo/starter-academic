@@ -41,7 +41,7 @@ feature:
 - description: 
   icon: hourglass
   icon_pack: far
-  name: Time Management
+  name: Project Management
   
 - description: 
   icon: microphone-alt
