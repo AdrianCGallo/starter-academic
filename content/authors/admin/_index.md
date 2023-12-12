@@ -14,7 +14,7 @@ organizations:
   url: https://www.idahoconservation.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m formally trained as a terrestrial biogeochemist (aka I know a lot about how dirt influences ecosystems). My current role involves the intersection of energy and environmental policy, and trying to get the renewable energy transition hurry up in the most equitable way possible. Outside of the office you can find me running, mountain biking, rock climbing, or playing soccer.
+bio: I’m formally trained as a terrestrial biogeochemist (aka I know a lot about how dirt controls ecosystems). My current role involves the intersection of energy and environmental policy, and trying to get the renewable energy transition to hurry up in the most equitable way possible. Outside of the office you can find me running, mountain biking, rock climbing, or playing soccer.
 
 
 # Interests to show in About widget

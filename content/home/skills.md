@@ -36,7 +36,7 @@ feature:
 - description: 
   icon: fire-alt
   icon_pack: fas
-  name: Fire Effects on Ecosystems
+  name: Disturbance Effects on Ecosystems
 
 - description: 
   icon: hourglass
