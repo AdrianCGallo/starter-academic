@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Climate Campaign Coordinator
+  - title: Climate Program Manager
     company: Idaho Conservation league
     company_url: 'https://www.idahoconservation.org/team-member/adrian-gallo/'
     company_logo: ICL_base_logo
@@ -33,9 +33,10 @@ experience:
     description: |2-
         Responsibilities include:
         
+        * Analyzing NEPA reports, County land use policies, and State regulations to enable the development of renewable energy projects
         * Developing and implementing climate campaign strategies that include scientific, legal, regulatory and grassroots tactics to make Idaho carbon neutral
         * Building an understanding and consensus on climate smart policies
-        * Advocating for clean energy, electrified transportation, and social policies that ensure people are not left behind in this energy transition. 
+        * Advocating for clean energy, electrified transportation, and social policies that ensure people are not left behind in this energy transition 
         * Establishing and building relationships with Tribes, agencies, elected officials, the business community, media and the public in order to build broad consensus for our overarching climate goals
         
         
@@ -126,10 +127,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Watershed management synthesis plans
-        * Incorporating GIS & field verification
+        * Watershed management synthesis plans for achieving multiple objectives
+        * Incorporating GIS & field verification techniques for project implementation
         * Report writing for actionable treatment areas
-        * I figured out where on the watershed we could do tree harvests and/or thinnings, and overlaid that with other management objectives to try and maximize utilization of minimal funds.
+        * Identifying watershed level projects where tree harvests and/or thinnings may coincide with potential fire brakes and other natural resource objectives. 
          
         
   - title: Biological Science Technician (Soils)
@@ -143,9 +144,10 @@ experience:
         Responsibilities include:
         
         * The **coolest** job I'll ever have
-        * Jumpin' outta helicopters to dig holes on steep hillsides to see how stable the soils actually were.
-        * Navigating in a dense temperate rain forest. 
-        * Driving on forest roads with loggers that drive like they're in a car derby.        
+        * Jumpin' outta helicopters to dig holes on steep hillsides to see how stable the soils actually were
+        * Navigating in a dense temperate rain forest with old school maps and an even older school GPS unit 
+        * Driving on forest roads with loggers that drive like they're in a car derby
+        * Detailing our field observations and providiing justifications for limitations to harvest prescriptions
         
 
 design:
