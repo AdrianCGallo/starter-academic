@@ -20,8 +20,7 @@ bio: I’m formally trained as a terrestrial biogeochemist (aka I know a lot abo
 # Interests to show in About widget
 interests:
 - Renewable Energy Systems
-- Terrestrial Carbon Cycling
-- Transportation Infrastructure
+- Terrestrial Ecology
 - Science Communication
 - Energy Policy
 - Food Systems
@@ -88,11 +87,11 @@ highlight_name: true
   # things here that are initially hidden. 
   # {{< /spoiler >}} 
 ---
-Hello! I'm a climate nerd who spent too much time doom scrolling IPCC reports and instead decided to be part of the renewable energy transition. My current role as Idaho Conservation League's Climate Program Manager involves the intersection of energy and environmental policy, with a focus on transportation infrastructure, renewable energy siting, and building a public understanding of the stakes and possibilities of our rapidly changing world.
+Hello! I'm a climate nerd who spent too much time doom scrolling IPCC reports and decided to be part of the renewable energy transition. I'm the Climate Program Manager for the Idaho Conservation League working at the intersection of energy and environmental policy, with a focus on renewable energy siting and building a public understanding of the stakes and possibilities of our rapidly changing world.
 
-Before moving into my current advocacy role, I earned a PhD researching how climate change is influencing ecosystems like deserts, grasslands, forests, and agricultural areas. Prior to that, I worked on the Tongass and Rogue River-Siskiyou National Forests  building long-term forest management plans. My nerdy specialties include soil carbon dynamics, fire effects on ecosystems, permafrost soils, biomarker sourcing techniques, and nature based carbon markets. You can learn more from my [recorded]({{< relref "/project/phd_dissertation" >}}) PhD defense, my [projects]({{< relref "/project" >}}), or my [published]({{< relref "/publication" >}}) journal articles.  
+Prior to my advocacy role, I earned a PhD researching how climate change is impacting ecosystems like deserts, grasslands, forests, and agricultural areas. Prior to that, I worked on the Tongass and Rogue River-Siskiyou National Forests  building long-term forest management plans. My nerdy specialties include soil carbon dynamics, fire effects on ecosystems, permafrost soils, biomarker sourcing techniques, and nature based carbon markets. You can learn more from my [recorded]({{< relref "/project/phd_dissertation" >}}) PhD defense, my [projects]({{< relref "/project" >}}), or my [published]({{< relref "/publication" >}}) journal articles.  
 
-During my graduate work I taught courses that include environmental science, sustainability, forest biology, watershed hydrology, and many many soil science classes. I also co-produced the [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) radio show, podcast, & blog where we interviewed graduate students about their research and personal stories. I must admit, the science communication part was sometimes more fun than the science! Nowadays I integrate the climate science and policy analysis with public communications to help create a better world for all of us. 
+During my graduate work I taught courses that include environmental science, sustainability, forest biology, watershed hydrology, and many many soil science classes. I also co-produced the [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) radio show, podcast, & blog where we interviewed graduate students about their research and personal stories.
 <Br>
   
 When not working you can find me running in circles, mountain biking, playing soccer, rock climbing, or trying to learn how to ski. To learn more about my history read my [Background]({{< relref "/project/Background" >}}).

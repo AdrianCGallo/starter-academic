@@ -16,7 +16,7 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: 'Website for @AdrianCGallo'
-twitter: 'https://twitter.com/AdrianCGallo'
+# twitter: 'https://twitter.com/AdrianCGallo'
 
 # Contact (edit or remove options as required)
 email: agallo~at~idahoconservation~dot~org
