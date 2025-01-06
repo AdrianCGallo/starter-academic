@@ -15,38 +15,47 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+## That's now depreciated, see new site: https://fontawesome.com/search?ip=classic&s=solid&o=r
+
 feature:
 
 feature:
+- description: 
+  icon: pen-fancy
+  icon_pack: fas
+  name: Policy Analysis
+  
+- description: 
+  icon: layer-group
+  icon_pack: fas
+  name: Project Management
+  
+
+- description: 
+  icon: chart-line
+  icon_pack: fas
+  name: Data Evaluation
+
 - description: 
   icon: flask
   icon_pack: fas
   name: Environmental Chemistry 
 
-- description: 
-  icon: chart-line
-  icon_pack: fas
-  name: Data Analysis
+#- description: 
+#  icon: camera-retro
+#  icon_pack: fas
+#  name: Photography
 
+  
 - description: 
-  icon: camera-retro
+  icon: microphone-alt
   icon_pack: fas
-  name: Photography
+  name: Interviewing & Communication
 
 - description: 
   icon: fire-alt
   icon_pack: fas
   name: Disturbance Effects on Ecosystems
-
-- description: 
-  icon: hourglass
-  icon_pack: far
-  name: Project Management
-  
-- description: 
-  icon: microphone-alt
-  icon_pack: fas
-  name: Interviewing & Audio Production
 
 
 # Uncomment to use emoji icons.
