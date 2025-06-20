@@ -6,12 +6,12 @@ title: Adrian C. Gallo
 superuser: true 
 
 # Role/position/tagline
-role: Ph.D. <Br> Climate Program Manager
+role: Ph.D. <Br> Clean Energy Consultant
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Idaho Conservation League
-  url: https://www.idahoconservation.org/
+#organizations:
+#- name: Idaho Conservation League
+#  url: https://www.idahoconservation.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I’m formally trained as a terrestrial biogeochemist (aka I know a lot about how dirt controls ecosystems). My current role involves the intersection of energy and environmental policy, and trying to get the renewable energy transition to hurry up in the most equitable way possible. Outside of the office you can find me running, mountain biking, rock climbing, or playing soccer.
@@ -19,11 +19,11 @@ bio: I’m formally trained as a terrestrial biogeochemist (aka I know a lot abo
 
 # Interests to show in About widget
 interests:
-- Renewable Energy Systems
+- Renewable Energy Siting
 - Terrestrial Ecology
 - Science Communication
 - Energy Policy
-- Food Systems
+- Coalition Building
 - Learning
 
 # Education to show in About widget
@@ -47,9 +47,9 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 
 social:
-- icon: school
-  icon_pack: fas
-  link: https://www.idahoconservation.org/team-member/adrian-gallo/ 
+#- icon: school
+#  icon_pack: fas
+#  link: https://www.idahoconservation.org/team-member/adrian-gallo/ 
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
@@ -77,7 +77,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "agallo~at~idahoconservation~dot~org"
+email: "adriancgallo~at~gmail~dot~com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -87,11 +87,23 @@ highlight_name: true
   # things here that are initially hidden. 
   # {{< /spoiler >}} 
 ---
-Hello! I'm a climate nerd who spent too much time doom scrolling IPCC reports and decided to be part of the renewable energy transition. I'm the Climate Program Manager for the Idaho Conservation League working at the intersection of energy and environmental policy, with a focus on renewable energy siting and building a public understanding of the stakes and possibilities of our rapidly changing world.
+Hello! I'm a climate nerd who spent too much time doom scrolling IPCC reports and decided to be part of the 
+renewable energy transition. I am an Idaho-based clean energy consultant focusing on policy impacts at the 
+county level. 
 
-Prior to my advocacy role, I earned a PhD researching how climate change is impacting ecosystems like deserts, grasslands, forests, and agricultural areas. Prior to that, I worked on the Tongass and Rogue River-Siskiyou National Forests  building long-term forest management plans. My nerdy specialties include soil carbon dynamics, fire effects on ecosystems, permafrost soils, biomarker sourcing techniques, and nature based carbon markets. You can learn more from my [recorded]({{< relref "/project/phd_dissertation" >}}) PhD defense, my [projects]({{< relref "/project" >}}), or my [published]({{< relref "/publication" >}}) journal articles.  
+Previously, I was the Climate Program Manager for the Idaho Conservation League where I co-developed a 
+long-term campaign to accelerate Idaho's movement towards more renewable energy. My formal training was 
+through my PhD researching how climate change is impacting ecosystems like deserts, grasslands, forests, 
+and agricultural areas. Prior to that, I worked on the Tongass and Rogue River-Siskiyou National Forests 
+building long-term forest management plans. My nerdy specialties include soil carbon dynamics, fire effects 
+on ecosystems, permafrost soils, biomarker sourcing techniques, and nature based carbon markets. 
+You can learn more from my [recorded]({{< relref "/project/phd_dissertation" >}}) PhD defense, 
+my [projects]({{< relref "/project" >}}), or my [published]({{< relref "/publication" >}}) journal articles.  
 
-During my graduate work I taught courses that include environmental science, sustainability, forest biology, watershed hydrology, and many many soil science classes. I also co-produced the [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) radio show, podcast, & blog where we interviewed graduate students about their research and personal stories.
+During my graduate work I taught courses that include environmental science, sustainability, forest biology, 
+watershed hydrology, and many many soil science classes. I also co-produced 
+the [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) 
+radio show, podcast, & blog where we interviewed graduate students about their research and personal stories.
 <Br>
   
 When not working you can find me running in circles, mountain biking, playing soccer, rock climbing, or trying to learn how to ski. To learn more about my history read my [Background]({{< relref "/project/Background" >}}).
