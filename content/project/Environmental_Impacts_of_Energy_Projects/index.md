@@ -14,7 +14,7 @@ categories:
 - Long-term
 - Energy
 
-date: "2021-07-29T00:00:00Z"
+date: "2025-05-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
