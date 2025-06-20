@@ -27,10 +27,6 @@ image:
   focal_point: Smart
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: See Thread
-#  url: https://twitter.com/AdrianCGallo/status/1006012766476333056?s=20
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -83,8 +79,6 @@ life, science communication skills from my podcasting and blogging days, and my 
 I don't exactly know how to do that yet. One thing is for sure, I am determined to leave Earth - and 
 especially its people - in better shape than when I entered it. 
 
-<br> 
-<br> 
 
 Cheers,    <br>
 ~Adrian
