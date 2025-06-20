@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Energy
+    tag: Energy
   - name: LTSP
     tag: LTSP
   - name: NEON

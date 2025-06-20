@@ -1,5 +1,5 @@
 ---
-title: I finished my PhD!
+title: A decade of environmental research
 
 authors:
 - admin
@@ -50,16 +50,9 @@ summary: I successfully defended my PhD, and had a lot of [type II] fun in the p
 
 
 ---
-{{% callout note %}}
-
-_This dissertation is in draft form_
-
-{{% /callout %}}
 
 
 ## Links
-
- I'm providing my written dissertation and presentation slides. Obviously there are __many__ edits. Nonetheless, I figured providing the deep thinking I've done so far is more helpful than waiting another year before the peer-review proccess has finished. As someone passionate about SciComm I wanted this to be available sooner rather than later.
 
  - My defense on [YouTube](https://youtu.be/qrPpsV34E0A)
  - My presentation notes and [slide deck](https://docs.google.com/presentation/d/1YFLgXWVOdiGcBTpRh-1lsenn7OfK03Z5sY7ofKAPm1I/edit?usp=sharing) (with citations/links in the notes section)
