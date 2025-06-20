@@ -21,7 +21,7 @@ date: "2025-04-29T00:00:00Z"
 external_link: ""
 
 image:
-  Caption: Image via [ShowYourStripes](https://www.reading.ac.uk/planet/climate-resources/climate-stripes)
+  Caption: 
   focal_point: Smart
 
 links:
@@ -30,7 +30,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/kbvrID
 url_code: ""
-url_pdf: "TalksPubs/Gallo_2024_climate-history-and-energy-futures-idahofalls.pdf"
+url_pdf: "https://npr.brightspotcdn.com/4e/c2/8b69ec6f41a6b7a9d12ffa02a377/climate-history-and-energy-futures-idahofalls.pdf"
 url_slides: ""
 url_video: "https://www.kisu.org/2024-09-23/dr-adrian-gallo-presents-the-road-to-a-clean-energy-future-to-idaho-falls-city-club"
 
