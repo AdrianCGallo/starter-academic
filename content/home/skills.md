@@ -34,7 +34,7 @@ feature:
 - description: 
   icon: chart-line
   icon_pack: fas
-  name: Data Evaluation
+  name: Data Interpretation
 
 - description: 
   icon: flask
