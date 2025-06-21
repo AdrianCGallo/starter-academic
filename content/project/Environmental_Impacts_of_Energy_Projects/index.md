@@ -81,17 +81,25 @@ But remember, we now have to deal with the "*crisis*" Environmentalism that we e
 ## **The Lava Ridge Wind Project**
 In the summer of 2024 I reviewed, [according to Heatmap News](https://heatmap.news/risk-index), 
 the *most at risk energy project in the US*. It took me a few days to read through a 2,500 page Final Environmental 
-Impact Statement, discuss the implications with my public lands, wildlife, and energy colleagues, and 
-[summarize initial impressions](https://idahoconservation.org/blog/blm-releases-final-assessment-of-lava-ridge-wind-project/).
+Impact Statement, discuss the implications and places of agreement with my public lands, wildlife, and energy colleagues, 
+then quickly write our blog, 
+[BLM releases final assessment of Lava Ridge Wind Project](https://idahoconservation.org/blog/blm-releases-final-assessment-of-lava-ridge-wind-project/).
 
 We continued working with other organizations to find out where they stood on the project, and to try and increase 
-support if they were movable. We continued to refine our position and eventually were able to support the project that 
-is explained in our blog, [The Lava Ridge wind project is not perfect, but it is necessary](https://idahoconservation.org/blog/the-lava-ridge-wind-project-is-not-perfect-but-it-is-necessary/).
+support if they were movable. We kept learning more of the wind project's impacts and benefits, 
+and eventually were able to support the project in our blog, [The Lava Ridge wind project is not perfect, but it is necessary](https://idahoconservation.org/blog/the-lava-ridge-wind-project-is-not-perfect-but-it-is-necessary/).
 
-There was ... fall out to say the least. Some of the disagreement was in good faith, but it was swamped by the chorus of cultural 
-grievances being redirected at all renewable energy projects because they acted as *symbols* of the Biden-administration. 
-Fast-forward to February 2025 where Lava Ridge was the only energy project named in an Executive Order 
-signed by president Trump that [functionally cancelled](https://idahocapitalsun.com/2025/01/22/president-trumps-executive-order-halts-lava-ridge-wind-project-in-idaho/) 
+This wind project's draft proposal "poisoned the well of public trust", as someone explained me. 
+Even though the final project size was cut in half making it 
+**more restrictive than the most restrictive alternative initially examined**, 
+there was universal outrage from local and federally elected officials and plenty of indignation from the public 
+(especially if they're on [FaceBook](https://www.facebook.com/groups/761309101717598/)). Some of the disagreement 
+was in good faith and worthy of considering, but it was swamped by the vitriolic outrage of cultural 
+grievances being redirected at all renewable energy projects. Why? Because they acted as **actual symbols** of 
+the Biden-administration 'looking over them from the red blinky lights on all the turbines' (new 
+technology makes them blink *only* when planes are nearby, making them far less intrusive). 
+Fast-forward to February 2025 where Lava Ridge was the only project explicitly named in any Executive Order 
+signed by Trump. That EO [functionally cancelled](https://idahocapitalsun.com/2025/01/22/president-trumps-executive-order-halts-lava-ridge-wind-project-in-idaho/) 
 the project from being built.
 
 This saga is not over because the area in question is the perfect place to build utility scale energy projects. During the FEIS
@@ -164,5 +172,5 @@ I say above and will reiterate, "there are no right answers, only trade-offs". T
 where it's most obvious. I encourage you to read the [ICL blog](https://idahoconservation.org/blog/here-comes-the-sun-proactive-solar-thinking-from-the-blm/) 
 about BLM's plans for solar development on public lands because it is a real life example of grappling with those issues. It 
 doesn't do so perfectly, with the second Trump administration most of these solar plans are on hold, but the careful analysis 
-and practicaly constraints are well reasoned to the point that not only did I agree with the BLM, but I convinced my colleagues
-to support their preferred project pathways as well. That's a win. 
+and practically constraints are well reasoned to the point that not only did I agree with the BLM, but I convinced my colleagues
+to support their preferred project pathways as well. That's a winning plan, but it may take a few more years before being implemented. 
