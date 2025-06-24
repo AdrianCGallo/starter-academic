@@ -14,11 +14,7 @@ role: Ph.D. <Br> Clean Energy Consultant
 #  url: https://www.idahoconservation.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I was trained to be a terrestrial biogeochemist (aka I know a lot about how dirt & ecosystems), 
-but my current role involves local energy policy, rural/urban connections, and 
-strategic communications. Overall I'm motivated to accelerate the renewable energy 
-transition in the most equitable way possible. Outside of the office you can find 
-me running, mountain biking, rock climbing, or playing soccer.
+bio: I was trained to be a terrestrial biogeochemist (aka I know a lot about how dirt & ecosystems), but my current role involves local energy policy, rural/urban connections, and strategic communications. Overall I'm motivated to accelerate the renewable energy transition in the most equitable way possible. Outside of the office you can find me running, mountain biking, rock climbing, or playing soccer.
 
 
 # Interests to show in About widget
