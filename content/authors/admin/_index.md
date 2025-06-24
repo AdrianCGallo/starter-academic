@@ -88,34 +88,22 @@ highlight_name: true
   # {{< /spoiler >}} 
 ---
 Hello! I'm a climate nerd who spent too much time doom scrolling IPCC reports and decided to be part of the 
-renewable energy transition. I am an Idaho-based clean energy consultant focusing on policy at the 
-county level. 
+renewable energy transition. I am an Idaho-based clean energy consultant focusing on energy policy at the 
+county-scale.
 
-Previously, I was the Climate Program Manager for the Idaho Conservation League where I co-developed a 
-long-term campaign to accelerate Idaho's decarbonization. I earned my PhD researching how climate change is impacting ecosystems like deserts, grasslands, forests, 
-and agricultural areas. Prior to that, I worked on the Tongass and Rogue River-Siskiyou National Forests 
-building long-term forest management plans. 
-
-My academic focus areas include soil carbon dynamics, fire effects on ecosystems, permafrost 
-soils, biomarker sourcing techniques, and nature based carbon markets. 
-You can learn more from my [recorded]({{< relref "/project/phd_dissertation" >}}) PhD defense, 
-my [projects]({{< relref "/project" >}}), or my [published]({{< relref "/publication" >}}) journal articles.  
-
-While pursing my graduate degrees at Oregon State I co-produced the 
+I started my career working for the Forest Service in Alaska and Oregon building long-term forest management plans. 
+My curiosity of the natural world led me to purse a PhD researching how climate change is impacting ecosystems like deserts, grasslands, forests, 
+and agricultural areas. My academic specialties include fire effects on ecosystems, permafrost, and nature based carbon markets. While at Oregon State, I co-produced the 
 [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) 
-radio show, podcast, & blog where we translated graduate student research for the public's understanding 
-and learned students' personal stories.
+radio show, podcast, & blog where we translated graduate student research for the public's understanding. 
+I then became a Climate Program Manager for the Idaho Conservation League where I co-developed a 
+long-term campaign to accelerate Idaho's road to decarbonization focusing on buildings, transportation, and the energy systems.
 
-I have a robust academic acumen making me a trusted messenger on climate issues, I am media trained and 
-experienced in interviews, presentations, teaching, or panel settings, and I know when to mind 
-my p's and q's to avoid any cultural faux pas. My ecology and geology background make me happy in the
-big-picture thinking arena, and they helped lay the foundations for how to accelerate the 
-renewable energy transition. 
-
-I think my skills would be especially valuable for a state entity working on regional 
-energy issues. Thus far I've learned so many good lessons on how to solve problems in this space, whether it's working 
-at the State Legislature level or phone banking for volunteers to advocate for better renewable energy policies.  
-Sometimes you need a long-term strategic policy plan to fix a problem, but sometimes you need to have 
+I have a robust academic background making me a trusted messenger on climate issues. I am media trained and 
+experienced in interviews, presentations, teaching, or panel settings. My ecology background makes me happy in the
+big-picture arena, and I know the value of personal relationships cannot be quantified even though they are be invaluable. 
+Thus far I've learned plenty of lessons on how to solve problems in the energy & climate space, whether it's working 
+at the State Legislature level or phone banking to advocate for better renewable energy policies. Sometimes you need a long-term strategic plan to fix a policy problem, but other times you need to have 
 more coffee & windshield time with the locals. 
 
 
