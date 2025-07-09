@@ -33,19 +33,18 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**AdrianCGallo**](https://twitter.com/AdrianCGallo)'
+  caption: 'Image credit: [**AdrianCGallo**](https://AdrianCGallo.com)'
   focal_point: ""
   placement: 2
   preview_only: false
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: See Thread
-  url: https://twitter.com/AdrianCGallo/status/1091491319707385858?s=20 
+#- icon: twitter
+#  icon_pack: fab
+#  name: See Thread
+#  url: https://twitter.com/AdrianCGallo/status/1091491319707385858?s=20 
 ---
 
-_Be patient ... content still being written_
 
 ## Some Background
 

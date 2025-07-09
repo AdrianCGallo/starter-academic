@@ -24,10 +24,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: See Thread
-  url: https://twitter.com/AdrianCGallo/status/1082319604070834180
+#- icon: twitter
+#  icon_pack: fab
+#  name: See Thread
+#  url: https://twitter.com/AdrianCGallo/status/1082319604070834180
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -14,7 +14,8 @@ categories:
 - Long-term
 - Energy
 
-date: "2025-05-18T00:00:00Z"
+date: "2024-06-13T00:00:00Z"
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -62,7 +63,8 @@ collapse, we need to build a lot of new clean energy projects. And we need to bu
 
 Do you see the juxtaposition yet? 
 
-You can read real-world examples of these conflicts for wind and solar projects I dealt with. They happened while working for an environmental non-profit with a history
+You can read real-world examples of these conflicts for a [wind](https://adriancgallo.com/project/lava_ridge/) and [solar](https://adriancgallo.com/project/blm_western_solar_plan/) projects I dealt with. 
+They happened while working for an environmental non-profit with a history
 of stopping all kinds of projects in the Mountain West. 
 They often leveraged the impacts to the [Greater Sage-Grouse](https://www.audubon.org/field-guide/bird/greater-sage-grouse)
 as a way to ensure greater protections for the bird and its habitat. 
