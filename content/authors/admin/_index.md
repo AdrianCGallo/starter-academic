@@ -96,20 +96,21 @@ My curiosity of the natural world led me to purse a PhD researching how climate 
 and agricultural areas. My academic specialties include fire effects on ecosystems, permafrost, and nature based carbon markets. While at Oregon State, I co-produced the 
 [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) 
 radio show, podcast, & blog where we translated graduate student research for the public's understanding. 
-I then became a Climate Program Manager for the Idaho Conservation League where I co-developed a 
-long-term campaign to accelerate Idaho's road to decarbonization focusing on buildings, transportation, and the energy systems.
+After my teaching and research days ended, I was Idaho Conservation League's Climate Program Manager where I co-developed a 
+long-term campaign to accelerate Idaho's path to decarbonization focused on buildings, transportation, agriculture, and our energy grid. 
+Although I started as an tree-hugging ecologist, energy-issues are now my life's work. 
 
-I have a robust academic background making me a trusted messenger on climate issues. I am media trained and 
-experienced in interviews, presentations, teaching, or panel settings. My ecology background makes me happy in the
-big-picture arena, and I know the value of personal relationships cannot be quantified even though they are be invaluable. 
+I have a strong academic background making me a trusted messenger on climate issues, and I quickly learned how to advocate for clean energy policies. I am media trained and 
+experienced in interviews, presentations, teaching, or panel settings. My ecosystem ecology background makes me happy in the
+big-picture planning arena and I've learned that cross pollinating individual stakeholders takes time but yields more durable outcomes.
+
+
 Thus far I've learned plenty of lessons on how to solve problems in the energy & climate space, whether it's working 
 at the State Legislature level or phone banking to advocate for better renewable energy policies. Sometimes you need a long-term strategic plan to fix a policy problem, but other times you need to have 
 more coffee & windshield time with the locals. 
-
-
-<Br>
   
-When not working you can find me running in circles, mountain biking, playing soccer, rock climbing, or trying to learn how to ski. To learn more about my history read my [Background]({{< relref "/project/Background" >}}).
+When not working you can find me running in circles, mountain biking, playing soccer, rock climbing, or trying to learn how to ski. Learn more [about me]({{< relref "/project/Background" >}}).
+
 <Br> 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AdrianCGallo_CV.pdf" >}}CV
+{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/AdrianCGallo_CV.pdf" >}}Download my CV
