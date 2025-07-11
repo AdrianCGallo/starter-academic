@@ -89,25 +89,22 @@ highlight_name: true
   # {{< /spoiler >}} 
 ---
 Hello! I'm a climate nerd who spent too much time doom scrolling IPCC reports and decided to be part of the 
-renewable energy transition. I am an Idaho-based clean energy consultant focusing on energy policy at the 
-county-scale.
+renewable energy transition. I am an Idaho-based clean energy consultant currently focusing on energy policy at the 
+county-scale, but remain active in regional energy discussions.
 
 I started my career working for the Forest Service in Alaska and Oregon building long-term forest management plans. 
 My curiosity of the natural world led me to purse a PhD researching how climate change is impacting ecosystems like deserts, grasslands, forests, 
 and agricultural areas. My academic specialties include fire effects on ecosystems, permafrost, and nature based carbon markets. While at Oregon State, I co-produced the 
 [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) 
 radio show, podcast, & blog where we translated graduate student research for the public's understanding. 
-After my teaching and research days ended, I was Idaho Conservation League's Climate Program Manager where I co-developed a 
-long-term campaign to accelerate Idaho's path to decarbonization focused on buildings, transportation, agriculture, and our energy grid. 
-Although I started as an tree-hugging ecologist, energy-issues are now my life's work. 
+
+After my teaching and research days finished up, I was Idaho Conservation League's Climate Program Manager where I co-developed a 
+long-term campaign to accelerate Idaho's path to decarbonization focused on buildings, transportation, agriculture issues, but focused on the energy grid. 
+Although I started as an tree-hugging ecologist, clean energy-issues are now my life's work. 
 
 I have a strong academic background making me a trusted messenger on climate issues, and I quickly learned how to advocate for clean energy policies. I am media trained and 
-experienced in interviews, presentations, teaching, or panel settings. My ecosystem ecology background makes me happy in the
-big-picture planning arena and I've learned that cross pollinating individual stakeholders takes time but yields more durable outcomes.
-
-
-Thus far I've learned plenty of lessons on how to solve problems in the energy & climate space, whether it's working 
-at the State Legislature level or phone banking to advocate for better renewable energy policies. Sometimes you need a long-term strategic plan to fix a policy problem, but other times you need to have 
+experienced in interviews, presentations, teaching, or panel settings. My ecosystem ecology background helps me feel at home while in 
+the big-picture planning arena. I've learned that sometimes you need a long-term strategic plan to fix a policy problem, but other times you need to have 
 more coffee & windshield time with the locals. 
   
 When not working you can find me running in circles, mountain biking, playing soccer, rock climbing, or trying to learn how to ski. Learn more [about me]({{< relref "/project/Background" >}}).
