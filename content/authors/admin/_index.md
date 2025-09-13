@@ -14,7 +14,7 @@ role: Ph.D. <Br> Clean Energy Consultant
 #  url: https://www.idahoconservation.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I was trained to be a terrestrial biogeochemist (aka I know a lot about how dirt & ecosystems), but my current role involves local energy policy, rural/urban connections, and strategic communications. Overall I'm motivated to accelerate the renewable energy transition in the most equitable way possible. Outside of the office you can find me running, mountain biking, rock climbing, or playing soccer.
+bio: I am formally trained as a terrestrial biogeochemist (aka I know a lot about how dirt & ecosystems), but I'm now focused on energy policy and strategic communications. You can usually find me outside running, mountain biking, or playing soccer.
 
 
 # Interests to show in About widget
@@ -87,10 +87,14 @@ highlight_name: true
   # {{< spoiler text="Click here to learn my Background" >}}
   # things here that are initially hidden. 
   # {{< /spoiler >}} 
+  
+# Saving words 
+# I have a strong academic background making me a trusted messenger on climate issues, and I quickly learned how to advocate for clean energy policies. I am media trained and  experienced in interviews, presentations, teaching, or panel settings. 
+
 ---
 Hello! I'm a climate nerd who spent too much time doom scrolling IPCC reports and decided to be part of the 
-renewable energy transition. I am an Idaho-based clean energy consultant currently focusing on energy policy at the 
-county-scale, but remain active in regional energy discussions.
+renewable energy transition. I am a clean energy consultant working on county and state-level energy issues in the West. 
+My ecosystem ecology background helps me feel comfortable with big-picture policy analyses, but I've learned that sometimes you need to have more coffee & windshield time with the locals to solve problems.
 
 I started my career working for the Forest Service in Alaska and Oregon building long-term forest management plans. 
 My curiosity of the natural world led me to purse a PhD researching how climate change is impacting ecosystems like deserts, grasslands, forests, 
@@ -98,17 +102,12 @@ and agricultural areas. My academic specialties include fire effects on ecosyste
 [Inspiration Dissemination]({{< relref "/project/inspiration_dissemination_memorable_episodes" >}}) 
 radio show, podcast, & blog where we translated graduate student research for the public's understanding. 
 
-After my teaching and research days finished up, I was Idaho Conservation League's Climate Program Manager where I co-developed a 
+After completing my academic work, I became Idaho Conservation League's Climate Program Manager where I co-developed a 
 long-term campaign to accelerate Idaho's path to decarbonization focused on buildings, transportation, agriculture issues, but focused on the energy grid. 
 Although I started as an tree-hugging ecologist, clean energy-issues are now my life's work. 
 
-I have a strong academic background making me a trusted messenger on climate issues, and I quickly learned how to advocate for clean energy policies. I am media trained and 
-experienced in interviews, presentations, teaching, or panel settings. My ecosystem ecology background helps me feel at home while in 
-the big-picture planning arena. I've learned that sometimes you need a long-term strategic plan to fix a policy problem, but other times you need to have 
-more coffee & windshield time with the locals. 
-  
-When not working you can find me running in circles, mountain biking, playing soccer, rock climbing, or trying to learn how to ski. Learn more [about me]({{< relref "/project/Background" >}}).
+When not working you can find me running in circles, mountain biking, or playing soccer. Learn more [about me]({{< relref "/project/Background" >}}).
 
 <Br> 
 
-{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/AdrianCGallo_CV.pdf" >}}Download my CV
+{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/AdrianCGallo_Resume.pdf" >}}Download my resume
