@@ -71,12 +71,15 @@ the state's legitimacy would be earned though compliance with an endless uncatal
 things done for the people it claimed to serve." While many will be sympathetic to these arguments, the policy atmospherics of the book need to
 be implemented on the ground. And that's where you find reasonable, but uncomfortable, trade offs. 
 
+### Brief note on the real and percieved land use impacts of solar
 Idaho has ~53.5 million acres, 22% is BLM-administered land mostly in the southern portion of the state where you'll find an abundance of 
 sagebrush-step ecosystems. Of the 11.7 million acres of BLM-administered land in Idaho, only 0.7% of that (90,000 acres) are reasonably 
 foreseeable to have solar on them in a 2050 fully decarbonized scenario. You can imagine how folks felt about public lands having solar on them
 when the Western Solar Plan was presented. Of course, there's more outrage today (Summer 2025) now that 21.7 million acres of Forest Service and BLM 
 administered lands in [Idaho are up for sale](https://www.wilderness.org/articles/press-release/new-analysis-250-million-acres-eligible-sale-newly-updated-budget-rec-bill).
 
+
+### A reality check on what is actually negatively impacting ecosystems in the Mountain West
 For decades, the Mountain West has been pressured by [invasive species](https://www.usgs.gov/centers/forest-and-rangeland-ecosystem-science-center/science/cheatgrass-and-medusahead) 
 like cheatgrass, Medusahead, and other annual species that are swallowing up the sagebrush sea. But this is an old problem. 
 Cheatgrass in particular was likely introduced in the late 1800's by 
