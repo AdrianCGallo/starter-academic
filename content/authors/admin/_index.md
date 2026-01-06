@@ -6,7 +6,7 @@ title: Adrian C. Gallo
 superuser: true 
 
 # Role/position/tagline
-role: Ph.D. <Br> Clean Energy Consultant
+role: Ph.D. <Br> Ecosystem Ecologist, Clean Energy Consultant
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -14,7 +14,7 @@ role: Ph.D. <Br> Clean Energy Consultant
 #  url: https://www.idahoconservation.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am formally trained as a terrestrial biogeochemist (aka I know a lot about how dirt & ecosystems), but I'm now focused on energy policy and strategic communications. You can usually find me outside running, mountain biking, or playing soccer.
+bio: I am formally trained as a terrestrial biogeochemist (aka I know a lot about dirt & ecosystem ecology), but I'm now focused on energy policy and strategic communications. You can usually find me outside running, mountain biking, or playing soccer.
 
 
 # Interests to show in About widget
