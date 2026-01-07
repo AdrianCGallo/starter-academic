@@ -14,8 +14,10 @@ categories:
 - Long-term
 - Energy
 
-date: "2027-02-26T00:00:00Z"
-#Making publish date in the future to hold it for later. 
+date: "2026-02-26T00:00:00Z"
+
+draft: true
+#Holding on publishing until it's ready
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
