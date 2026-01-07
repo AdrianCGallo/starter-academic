@@ -16,7 +16,7 @@ categories:
 
 date: "2026-02-26T00:00:00Z"
 
-draft: true
+draft: "true"
 #Holding on publishing until it's ready
 
 # Optional external URL for project (replaces project detail page).
