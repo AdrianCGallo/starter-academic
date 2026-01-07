@@ -6,7 +6,7 @@ title: Adrian C. Gallo
 superuser: true 
 
 # Role/position/tagline
-role: Ph.D. <Br> Ecosystem Ecologist, Clean Energy Consultant
+role: Ph.D. <Br> Ecosystem Ecologist <Br> Clean Energy Consultant
 
 # Organizations/Affiliations to show in About widget
 #organizations:
