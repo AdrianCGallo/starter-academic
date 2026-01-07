@@ -141,13 +141,50 @@ the Clean Air Act, and its subsequent amendments, have probably been the most li
 [environmental and health benefits](https://www.epa.gov/clean-air-act-overview/benefits-and-costs-clean-air-act-1990-2020-second-prospective-study) 
 exceed the cost by at least 30 to 1. 
 
-It's worth contrasting those fossil-based impacts with the new infrastructure: transmission lines, windmills, solar panels, and electrical substations don't 
-cause the same physical harms because they do not emit chemical pollution. They can, however, be noisy. For a few weeks of the summer the 
+Too often I see comparisons that blur the lines between polluting infrastructure and clean energy infrastructure. 
+Living next to oil pipelines, plastics manufactures, or 
+fossil-burning power plants is **not** the same as living next to transmission lines, solar farms, or windmills. The former 
+pollute the air and water all around you and decrease life expectancy because they constantly release chemical pollution. 
+Clean energy infrastructure does not emit harmful chemicals (as pushed by [fossil-fuel disinformation](https://www.npr.org/2023/02/18/1154867064/solar-power-misinformation-activists-rural-america) 
+groups), but I concede they can look funny. 
+
+Yes, I'm looking at you "environmental justice" groups who are trying to lump in 
+rural-landowners fighting a wind farm many-miles away with folks in cancer alley who's town remains forcibly unincorporated to make sure they 
+have no political power to stop yet another petroleum plant from being sited nearby. **These are not the same harms**. We need to be honest 
+about the fact that rural land owners literally get paid to host infrastructure on their property, often 
+*exceeding the revenues* of whatever farming/ranching operation they currently have. When you 
+sign a land-lease agreement for wind or solar farms, it's 25-30 years of substantial guaranteed income. When Russia invades Ukraine and wheat prices 
+drop, or you have an excessively dry season, or you have one freeze event in the middle of the germination period, that can wreck an entire 
+annual harvest. Commodity prices wildly fluctuate and nature more often decides which farms make it. So it should come as no surprise 
+that having a tall piece of metal on your property may not look pretty, but if it helps to ensure 
+the family farm stays in the family and allows you to see the road to financial security in retirement, that's a great deal for most people. 
+
+
+### Changing views (of wind power)
+That's one reason wind power
+had been relatively uncontroversial from the 1980s through the mid 2000s, even in rural states like Nebraska, Wyoming, Texas, and Idaho (see [PURPA project history](https://www.eia.gov/todayinenergy/detail.php?id=36912)).  
+There was always some push back to these projects (if you offer to give everyone a puppy you'll still have some detractors). 
+But beginning in the mid-2010s is when rural folks really started to [sour on wind projects](https://www.sciencedirect.com/science/article/abs/pii/S2214629617301275). 
+It didn't help that the glorified Republican presidential nominee just finished a years-long litigation against the Scottish government
+for allowing an offshore wind project to be sited in the viewshed of his golf-course. He thought they were "[very ugly](https://www.bbc.com/news/articles/c15l3knp4xyo)" 
+and consistently [repeated other false claims](https://www.nytimes.com/2019/04/03/climate/fact-check-trump-windmills.html) whenever he gave a public speech.
+Lying is about windmills is one thing, but repeating these lies over and over again is how an alternative reality gets created that 
+scholars have characterized as "[hyper-Orwellian](https://link.springer.com/chapter/10.1007/978-981-10-8013-5_7)". There are valid reasons 
+to oppose windmills, but we need to face reality that the psyche of many folks have been poised by Trump's disinformation. 
+
+When I went backpacking as a kid in the Sierra wilderness I never saw satellites. 
+I still remember the first time we saw a satellite, all guessing it was a UFO because it was way too fast and quiet to be an airplane. 
+But now there are constant satellites and airplanes crossing over the Sierras. Not an hour goes by without seeing (or hearing) a few. Is it
+my right to view a pristine sky like I remember as a child, and thus be empowered to sue Starlink or American Airlines into the ground? Give me a break. 
+
+New clean energy infrastructure can be seen from afar, it doesn't release harmful chemicals, but they can be noisy. For a few weeks of the summer the 
 transmission lines by my neighborhood park emit a low hum reminiscent of TV static. Windmills, if you stand close enough, can also be a bit noisy and 
 their shadow flicker can be discombobulating; at night you can always see the towers from far away because of the flashy lights. 
 Substations can similarly be noisy if you're close enough, they are no doubt an eye sore. 
 Solar panels are silent neighbors, but they can look odd on the landscape. 
 
+
+### Protecting Americans' homes
 While not technically a physical harm, negative impacts to the Americans' primary wealth-accumulation vehicle has raised some eyebrows. 
 There are two studies worth examining, where the combined analyses incorporate over 4-million housing transactions from the last two decades, 
 both were published in 2020. The [nationally comprehensive study](https://eta-publications.lbl.gov/sites/default/files/lspvp_journal_article.pdf) 
@@ -161,8 +198,10 @@ decreased property value if you're less than 1 mile away from a solar project, t
 For example, that -1.5% effect size is still on par with Florida and Colorado's overall decline in home value in 2025 alone (-2.3% and -1.2% respectively). 
 We must concede, that technically there are measurable impacts to property values, but lets not make a mountain out of a mole hole. 
 
+
+### Addressing realistic harms of clean energy
 So the "impacts" that remain of new energy infrastructure are largely aesthetics and noise. (I plan to write separately about aesthetic issues, 
-especially place-based considerations on siting energy infrastructure, which I will link here when available.) These audible impacts (while not considered 
+especially place-attachment theory on siting energy infrastructure, which I will link here when available.) These audible impacts (while not considered 
 *physical* impacts by law, they are considered a [form of pollution](https://www.epa.gov/clean-air-act-overview/clean-air-act-title-iv-noise-pollution)) 
 can be easily mitigated with setback requirements. For example, windmill turbines can to be set back 2.5x 
 the max height from any dwellings to prevent shadow flicker and noise impacts.
@@ -181,7 +220,7 @@ To reiterate, of the physical impacts that clean energy projects cause, they can
 <br>
 
 
-## We need to recognize the trade offs & build
+## We need to recognize there are trade offs & build anyways
 This should not deter us from building a new clean energy economy. 
 To the contrary, we Environmentalists need a new paradigm to recognize that opposing clean energy projects because of their 
 hyper-specific "impacts" is like declining an emergency appendicitis surgery because you're worried about the incision scar. 
