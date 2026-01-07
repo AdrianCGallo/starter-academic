@@ -175,8 +175,8 @@ the family farm stays in the family and allows you to see the road to financial 
 
 
 ### Changing views (of wind power)
-That's one reason wind power
-had been relatively uncontroversial from the 1980s through the mid 2000s, even in rural states like Nebraska, Wyoming, Texas, and Idaho (see [PURPA project history](https://www.eia.gov/todayinenergy/detail.php?id=36912)).  
+The financial stability afforded to folks who host wind projects is just one reason wind power
+had been *relatively* uncontroversial from the 1980s through the mid 2000s, even in rural states like Nebraska, Wyoming, Texas, and Idaho (see [PURPA project history](https://www.eia.gov/todayinenergy/detail.php?id=36912)).  
 
 There was always some push back to these projects (if you offer to give everyone a puppy you'll still have some detractors). 
 But beginning in the mid-2010s is when rural folks really started to [sour on wind projects](https://www.sciencedirect.com/science/article/abs/pii/S2214629617301275). 
@@ -195,7 +195,7 @@ my right to view a pristine sky like I remember as a child, and thus be empowere
 
 
 ### Protecting Americans' homes
-New clean energy infrastructure can be seen from afar, it doesn't release harmful chemicals, but they can be noisy. For a few weeks of the summer the 
+New clean energy infrastructure can be seen from afar, while they don't release harmful chemicals they can be noisy. For a few weeks of the summer the 
 transmission lines by my neighborhood park emit a low hum reminiscent of TV static. Windmills, if you stand close enough, can also be a bit noisy and 
 their shadow flicker can be discombobulating; at night you can always see the towers from far away because of the flashy lights. 
 Substations can similarly be noisy if you're close enough, they are no doubt an eye sore. 
